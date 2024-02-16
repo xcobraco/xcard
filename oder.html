@@ -1,0 +1,281 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Registration Form</title>
+    <style>
+        body {
+            background-image: url(https://i.ibb.co/7jmTcQt/sofindd-fp-12-11-2023-303.png);
+            background-attachment: fixed;
+            background-repeat: no-repeat;
+            background-size: cover;
+            margin: 0;
+            font-family: 'Arial', sans-serif;
+            color: #ffffff;
+            
+        }
+        @media only screen and (max-width: 600px) {
+            body {
+                background-image: url(https://i.ibb.co/17FDV88/Artboard-1.png);
+            }
+        }
+        
+        
+        input[type=text], select, input[type=email], input[type=file] ,input[type=button] {
+            width: calc(100% - 24px); /* Adjust width to account for padding */
+            padding: 12px;
+            margin: 8px 0;
+            border: 1px solid #ccc;
+            border-radius: 4px;
+            box-sizing: border-box;
+        }
+        
+        .container {
+            width: 100%;
+            max-width: 960px;
+            margin: 0 auto;
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+        }
+
+        .form-column {
+            background: rgba(0, 0, 0, 0.404);
+            padding: 20px;
+            border-radius: 8px;
+            box-shadow: 0 0 15px rgba(255, 255, 255, 0.2);
+            margin-bottom: 20px;
+            width: 100%;
+        }
+         .summary-column {
+            background: rgba(0, 0, 0, 0.856);
+            padding: 20px;
+            border-radius: 8px;
+            box-shadow: 0 0 15px rgba(255, 255, 255, 0.2);
+            margin-bottom: 20px;
+            width: 100%;
+        }
+
+        .form-column {
+            order: 2;
+        }
+
+        .summary-column {
+            order: 1;
+            position: -webkit-sticky;
+            position: sticky;
+            top: 10px;
+        }
+
+        .radio-group {
+            display: flex;
+            flex-wrap: wrap;
+            justify-content: center;
+        }
+
+        .radio-group label {
+            flex: 0 0 33.33%; /* 3 columns */
+            padding: 10px;
+            text-align: center;
+        }
+
+        .radio-group label input[type="radio"] {
+            display: none;
+        }
+
+        .radio-group label img {
+            width: 100%;
+            height: auto;
+            max-width: 200px;
+        }
+
+        .radio-group label p {
+            margin: 0;
+        }
+
+        @media screen and (max-width: 768px) {
+            .radio-group label {
+                flex-basis: 50%; /* 2 columns on smaller screens */
+            }
+        }
+        hr.new3 {
+                 border-top: 1px dotted rgb(250, 247, 247);
+                }
+            
+        
+    </style>
+</head>
+<body>
+
+<div class="container">
+    <div class="form-column">
+        <center>
+        <form id="registrationForm">
+            <h2>User Preferences</h2>
+            <div class="radio-group">
+                <label><input type="radio" name="userPreference" value="Op1" id="op1"> <img src="https://i.ibb.co/CbHTTY7/bgr1-4.png" alt="Design 2" width="50%" height="50%"><br>
+                    <p>LKR 3200.00</p>
+                </label>
+                <label><input type="radio" name="userPreference" value="Op2" id="op2"><img src="https://i.ibb.co/QJtt6RM/bgr1-5.png" alt="Design 1" width="50%" height="50%">
+                    <p>LKR 3600.00</p>
+                </label>
+                <label><input type="radio" name="userPreference" value="Op3" id="op3">   <img src="https://i.ibb.co/ZfwJmJp/bgr1-1.png" alt="Design 3" width="50%" height="50%">
+                    <p>LKR 4500.00</p>
+                </label>
+                <label><input type="radio" name="userPreference" value="Op4" id="op4"><img src="https://i.ibb.co/FbBy9cn/bgr1-3.png" alt="Design 4" width="50%" height="50%">
+                    <p>LKR 4700.00</p>
+                </label>
+                <label><input type="radio" name="userPreference" value="Op5" id="op5"> <img src="https://i.ibb.co/8Ymmc50/bgr1-2.png" alt="Design 5" width="50%" height="50%">
+                    <p>LKR 5300.00</p>
+                </label>
+                <label><input type="radio" name="userPreference" value="Op6" id="op6"><img src="https://i.ibb.co/CBwXmWN/bgr1-6.png" alt="Design 6" width="50%" height="50%">
+                    <p>LKR 6200.00</p>
+                </label>
+            </div>
+            <hr class="new3">
+            <hr class="new3">
+            <h2>Personal and Professional Information</h2>
+            <input type="text" name="name" placeholder="Name">
+            <input type="text" name="contact" placeholder="Contact Number">
+            <input type="email" name="email" placeholder="Email">
+            <input type="text" name="position" placeholder="Position">
+            <input type="text" name="companyName" placeholder="Company Name">
+            <hr class="new3">
+            <hr class="new3">
+            <div id="uploadsSection">
+    		<h2>Uploads</h2>
+    		<input type="file" name="logo" placeholder="Upload Logo">
+    		<input type="file" name="design" placeholder="Upload Design">
+            <hr class="new3">
+            <hr class="new3">
+			</div>
+          
+            <h2>Payment Method</h2>
+            <div class="radio-group">
+                <label>
+                    <input type="radio" name="paymentMethod" value="Bank Slip" id="bankSlip">
+                    Bank Slip
+                    <img src="https://i.ibb.co/6B8DdPM/istockphoto-1294462504-612x612-removebg-preview.png" width="500" height="600" >
+                </label>
+                <label>
+                    <input type="radio" name="paymentMethod" value="Card Payment">
+                    Card Payment
+                    <img src="https://i.ibb.co/ftxtJJg/6963703.png" width="500" height="600">
+                </label>
+                <label>
+                    <input type="radio" name="paymentMethod" value="Cash on Delivery">
+                    Cash on Delivery
+                    <img src="https://i.ibb.co/pdz1X31/Untitled-removebg-preview.png" width="500" height="600">
+                </label>
+               <center> <img src="https://i.ibb.co/bgQk8w9/360-F-406753914-SFSBhjhp6kb-Hbl-Ni-UFZ1-MXHcu-EKe7e7-P-removebg-preview.png" width="50%" height="30%"></center>
+            </div>
+            <hr class="new3">
+            <hr class="new3">
+
+            <div id="bankSlipUpload" style="display: none;">
+                <input type="file" name="bankSlipFile">
+            </div>
+            
+            
+             <h2>file this emial send payment slip</h2>
+            <input type="email" name="emailSlip" placeholder="emailSlip">
+            <hr class="new3">
+            <hr class="new3">
+            
+            <h2>File This Email to Send Payment Slip</h2>
+            <input type="email" name="emailSlip" placeholder="Email for Payment Slip"> <!-- Corrected name attribute -->
+            <hr class="new3">
+            <hr class="new3">
+            
+            <h2>Delivery Address</h2>
+            <input type="text" name="deliveryAddress" placeholder="Delivery Address"> <!-- Corrected name attribute -->
+            <hr class="new3">
+            <hr class="new3">
+            
+            <p>If you have a problem with this purchase, you can call us at +94 74 134 2997</p>
+
+            <input type="button" value="Submit" class="submit-button">
+        </form>
+        </center>
+    </div>
+    <br><br><br><br>
+    <div class="summary-column">
+    <h2>Form Summary</h2>
+        <div id="formSummary">
+            <h2>Form Summary</h2>
+            <!-- Real-time summary content will be displayed here -->
+        </div>
+    </div>
+</div>
+
+<script>
+    // Function to update the form summary with personal, professional information, and user preferences
+    function updateFormSummary() {
+        // Capture values from all input fields
+        const name = document.querySelector('input[name="name"]').value;
+        const contact = document.querySelector('input[name="contact"]').value;
+        const email = document.querySelector('input[name="email"]').value;
+        const position = document.querySelector('input[name="position"]').value;
+        const companyName = document.querySelector('input[name="companyName"]').value;
+        const paymentMethod = document.querySelector('input[name="paymentMethod"]:checked') ? document.querySelector('input[name="paymentMethod"]:checked').value : '';
+        const userPreference = document.querySelector('input[name="userPreference"]:checked') ? document.querySelector('input[name="userPreference"]:checked').value : '';
+        const emailSlip = document.querySelector('input[name="emailSlip"]').value; // Corrected to use the unique name
+        const deliveryAddress = document.querySelector('input[name="deliveryAddress"]').value; // Corrected to use the unique name
+
+        let summaryHtml = `<strong>User Preference:</strong> ${userPreference}<br>
+                            <strong>Name:</strong> ${name}<br>
+                            <strong>Contact:</strong> ${contact}<br>
+                            <strong>Email:</strong> ${email}<br>
+                            <strong>Position:</strong> ${position}<br>
+                            <strong>Company Name:</strong> ${companyName}<br>
+                            <strong>Payment Method:</strong> ${paymentMethod}<br>
+                            
+                            <strong>Email for Payment Slip:</strong> ${emailSlip}<br>
+                            <strong>Delivery Address:</strong> ${deliveryAddress}`;
+
+        document.getElementById('formSummary').innerHTML = summaryHtml;
+    }
+
+    // Function to toggle the bank slip upload field based on payment method selection
+    function toggleBankSlipUpload() {
+        const bankSlipRadio = document.getElementById("bankSlip");
+        const bankSlipUpload = document.getElementById("bankSlipUpload");
+        bankSlipUpload.style.display = bankSlipRadio.checked ? "block" : "none";
+    }
+
+    // Function to toggle additional inputs based on the selected user preference
+    function togglePreferenceDetails() {
+       const userPreference = document.querySelector('input[name="userPreference"]:checked') ? document.querySelector('input[name="userPreference"]:checked').value : '';
+    const uploadsSection = document.getElementById('uploadsSection');
+
+    if (userPreference === "Op1" || userPreference === "Op2") {
+        uploadsSection.style.display = "none";
+    } else {
+        uploadsSection.style.display = "block";
+    }
+    }
+
+    // Event listeners for the form
+    document.getElementById("registrationForm").addEventListener("input", updateFormSummary);
+    document.querySelectorAll('input[name="paymentMethod"]').forEach(input => {
+        input.addEventListener("change", function() {
+            toggleBankSlipUpload();
+            updateFormSummary();
+        });
+    });
+    document.querySelectorAll('input[name="userPreference"]').forEach(input => {
+        input.addEventListener("change", function() {
+            togglePreferenceDetails();
+            updateFormSummary();
+        });
+    });
+
+    // Initial setup calls
+    toggleBankSlipUpload();
+    updateFormSummary();
+    togglePreferenceDetails();
+</script>
+
+</body>
+</html>

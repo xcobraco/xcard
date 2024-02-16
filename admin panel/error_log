@@ -1,0 +1,427 @@
+[05-Feb-2024 11:48:24 UTC] PHP Fatal error:  Uncaught Error: Class "PHPMailer" not found in /home2/xcobra/public_html/synerx.lk/admin panel/customerRegister.php:187
+Stack trace:
+#0 {main}
+  thrown in /home2/xcobra/public_html/synerx.lk/admin panel/customerRegister.php on line 187
+[05-Feb-2024 11:48:48 UTC] PHP Fatal error:  Uncaught Error: Class "PHPMailer" not found in /home2/xcobra/public_html/synerx.lk/admin panel/customerRegister.php:187
+Stack trace:
+#0 {main}
+  thrown in /home2/xcobra/public_html/synerx.lk/admin panel/customerRegister.php on line 187
+[05-Feb-2024 14:54:29 UTC] PHP Warning:  Undefined variable $name in /home2/xcobra/public_html/synerx.lk/admin panel/customerRegister.php on line 213
+[05-Feb-2024 14:55:52 UTC] PHP Warning:  Undefined variable $name in /home2/xcobra/public_html/synerx.lk/admin panel/customerRegister.php on line 213
+[05-Feb-2024 15:02:18 UTC] PHP Warning:  Undefined variable $name in /home2/xcobra/public_html/synerx.lk/admin panel/customerRegister.php on line 213
+[05-Feb-2024 15:05:31 UTC] PHP Warning:  Undefined variable $name in /home2/xcobra/public_html/synerx.lk/admin panel/customerRegister.php on line 213
+[05-Feb-2024 19:01:59 UTC] PHP Warning:  Undefined variable $name in /home2/xcobra/public_html/synerx.lk/admin panel/customerRegister.php on line 213
+[06-Feb-2024 04:06:47 UTC] PHP Warning:  Undefined variable $name in /home2/xcobra/public_html/synerx.lk/admin panel/customerRegister.php on line 213
+[06-Feb-2024 04:07:23 UTC] PHP Warning:  Undefined variable $name in /home2/xcobra/public_html/synerx.lk/admin panel/customerRegister.php on line 213
+[06-Feb-2024 06:40:06 UTC] PHP Warning:  Undefined variable $name in /home2/xcobra/public_html/synerx.lk/admin panel/customerRegister.php on line 213
+[06-Feb-2024 08:02:47 UTC] PHP Warning:  Undefined variable $name in /home2/xcobra/public_html/synerx.lk/admin panel/customerRegister.php on line 213
+[06-Feb-2024 10:23:45 UTC] PHP Warning:  Undefined array key "username" in /home2/xcobra/public_html/synerx.lk/admin panel/home.php on line 14
+[06-Feb-2024 10:23:46 UTC] PHP Warning:  Undefined array key "username" in /home2/xcobra/public_html/synerx.lk/admin panel/home.php on line 14
+[07-Feb-2024 07:37:29 UTC] PHP Parse error:  syntax error, unexpected identifier "Lucida" in /home2/xcobra/public_html/synerx.lk/admin panel/customerRegister.php on line 305
+[07-Feb-2024 07:37:30 UTC] PHP Parse error:  syntax error, unexpected identifier "Lucida" in /home2/xcobra/public_html/synerx.lk/admin panel/customerRegister.php on line 305
+[07-Feb-2024 07:38:37 UTC] PHP Warning:  Undefined variable $name in /home2/xcobra/public_html/synerx.lk/admin panel/customerRegister.php on line 213
+[07-Feb-2024 08:04:21 UTC] PHP Warning:  Undefined variable $name in /home2/xcobra/public_html/synerx.lk/admin panel/customerRegister.php on line 213
+[07-Feb-2024 08:08:34 UTC] PHP Warning:  Undefined variable $name in /home2/xcobra/public_html/synerx.lk/admin panel/customerRegister.php on line 213
+[07-Feb-2024 08:12:24 UTC] PHP Warning:  Undefined variable $name in /home2/xcobra/public_html/synerx.lk/admin panel/customerRegister.php on line 213
+[07-Feb-2024 08:32:09 UTC] PHP Parse error:  syntax error, unexpected identifier "email" in /home2/xcobra/public_html/synerx.lk/admin panel/customerRegister.php on line 308
+[07-Feb-2024 08:33:23 UTC] PHP Parse error:  syntax error, unexpected identifier "email" in /home2/xcobra/public_html/synerx.lk/admin panel/customerRegister.php on line 309
+[07-Feb-2024 08:33:48 UTC] PHP Parse error:  syntax error, unexpected variable "$enteredEmail" in /home2/xcobra/public_html/synerx.lk/admin panel/customerRegister.php on line 309
+[07-Feb-2024 08:34:14 UTC] PHP Parse error:  syntax error, unexpected token "?" in /home2/xcobra/public_html/synerx.lk/admin panel/customerRegister.php on line 309
+[07-Feb-2024 08:34:44 UTC] PHP Parse error:  syntax error, unexpected identifier "password" in /home2/xcobra/public_html/synerx.lk/admin panel/customerRegister.php on line 313
+[07-Feb-2024 08:35:24 UTC] PHP Warning:  Undefined variable $name in /home2/xcobra/public_html/synerx.lk/admin panel/customerRegister.php on line 213
+[07-Feb-2024 08:36:49 UTC] PHP Warning:  Undefined variable $name in /home2/xcobra/public_html/synerx.lk/admin panel/customerRegister.php on line 213
+[07-Feb-2024 08:38:44 UTC] PHP Warning:  Undefined variable $name in /home2/xcobra/public_html/synerx.lk/admin panel/customerRegister.php on line 213
+[07-Feb-2024 08:39:43 UTC] PHP Warning:  Undefined variable $name in /home2/xcobra/public_html/synerx.lk/admin panel/customerRegister.php on line 213
+[07-Feb-2024 08:51:25 UTC] PHP Warning:  Undefined array key "username" in /home2/xcobra/public_html/synerx.lk/admin panel/home.php on line 14
+[07-Feb-2024 08:51:30 UTC] PHP Warning:  Undefined array key "username" in /home2/xcobra/public_html/synerx.lk/admin panel/home.php on line 14
+[07-Feb-2024 08:51:47 UTC] PHP Warning:  Undefined array key "username" in /home2/xcobra/public_html/synerx.lk/admin panel/home.php on line 14
+[07-Feb-2024 08:51:47 UTC] PHP Warning:  Undefined array key "username" in /home2/xcobra/public_html/synerx.lk/admin panel/home.php on line 14
+[07-Feb-2024 08:51:51 UTC] PHP Warning:  Undefined array key "username" in /home2/xcobra/public_html/synerx.lk/admin panel/home.php on line 14
+[07-Feb-2024 08:51:52 UTC] PHP Warning:  Undefined array key "username" in /home2/xcobra/public_html/synerx.lk/admin panel/home.php on line 14
+[07-Feb-2024 08:52:05 UTC] PHP Warning:  Undefined array key "username" in /home2/xcobra/public_html/synerx.lk/admin panel/home.php on line 14
+[07-Feb-2024 08:52:06 UTC] PHP Warning:  Undefined array key "username" in /home2/xcobra/public_html/synerx.lk/admin panel/home.php on line 14
+[07-Feb-2024 08:52:11 UTC] PHP Warning:  Undefined array key "username" in /home2/xcobra/public_html/synerx.lk/admin panel/home.php on line 14
+[07-Feb-2024 08:52:11 UTC] PHP Warning:  Undefined array key "username" in /home2/xcobra/public_html/synerx.lk/admin panel/home.php on line 14
+[07-Feb-2024 08:52:44 UTC] PHP Warning:  Undefined array key "username" in /home2/xcobra/public_html/synerx.lk/admin panel/home.php on line 14
+[07-Feb-2024 08:52:44 UTC] PHP Warning:  Undefined array key "username" in /home2/xcobra/public_html/synerx.lk/admin panel/home.php on line 14
+[07-Feb-2024 08:55:25 UTC] PHP Warning:  Undefined variable $name in /home2/xcobra/public_html/synerx.lk/admin panel/customerRegister.php on line 213
+[07-Feb-2024 08:58:09 UTC] PHP Warning:  Undefined variable $name in /home2/xcobra/public_html/synerx.lk/admin panel/customerRegister.php on line 213
+[07-Feb-2024 09:00:56 UTC] PHP Warning:  Undefined variable $name in /home2/xcobra/public_html/synerx.lk/admin panel/customerRegister.php on line 213
+[07-Feb-2024 09:01:57 UTC] PHP Warning:  Undefined variable $name in /home2/xcobra/public_html/synerx.lk/admin panel/customerRegister.php on line 213
+[07-Feb-2024 09:12:10 UTC] PHP Warning:  Undefined variable $name in /home2/xcobra/public_html/synerx.lk/admin panel/customerRegister.php on line 213
+[07-Feb-2024 09:12:48 UTC] PHP Warning:  Undefined variable $name in /home2/xcobra/public_html/synerx.lk/admin panel/customerRegister.php on line 213
+[07-Feb-2024 09:33:42 UTC] PHP Warning:  Undefined variable $name in /home2/xcobra/public_html/synerx.lk/admin panel/customerRegister.php on line 213
+[07-Feb-2024 15:35:42 UTC] PHP Warning:  Undefined array key "username" in /home2/xcobra/public_html/synerx.lk/admin panel/home.php on line 14
+[10-Feb-2024 05:53:22 UTC] PHP Warning:  Undefined variable $name in /home2/xcobra/public_html/synerx.lk/admin panel/customerRegister.php on line 213
+[10-Feb-2024 08:25:10 UTC] PHP Warning:  Trying to access array offset on value of type null in /home2/xcobra/public_html/synerx.lk/admin panel/home.php on line 24
+[10-Feb-2024 08:25:21 UTC] PHP Warning:  Trying to access array offset on value of type null in /home2/xcobra/public_html/synerx.lk/admin panel/home.php on line 24
+[10-Feb-2024 08:26:18 UTC] PHP Warning:  Undefined array key "petCount" in /home2/xcobra/public_html/synerx.lk/admin panel/home.php on line 24
+[12-Feb-2024 08:52:50 UTC] PHP Warning:  Undefined array key "username" in /home2/xcobra/public_html/synerx.lk/admin panel/home.php on line 14
+[12-Feb-2024 08:52:56 UTC] PHP Warning:  Undefined array key "username" in /home2/xcobra/public_html/synerx.lk/admin panel/home.php on line 14
+[12-Feb-2024 08:52:57 UTC] PHP Warning:  Undefined array key "username" in /home2/xcobra/public_html/synerx.lk/admin panel/home.php on line 14
+[12-Feb-2024 15:29:52 UTC] PHP Warning:  Undefined array key "username" in /home2/xcobra/public_html/synerx.lk/admin panel/home.php on line 14
+[12-Feb-2024 15:30:54 UTC] PHP Warning:  Undefined variable $name in /home2/xcobra/public_html/synerx.lk/admin panel/customerRegister.php on line 213
+[12-Feb-2024 15:33:26 UTC] PHP Warning:  Undefined variable $name in /home2/xcobra/public_html/synerx.lk/admin panel/customerRegister.php on line 213
+[12-Feb-2024 15:40:03 UTC] PHP Warning:  Undefined variable $name in /home2/xcobra/public_html/synerx.lk/admin panel/customerRegister.php on line 213
+[12-Feb-2024 15:41:17 UTC] PHP Warning:  Undefined variable $name in /home2/xcobra/public_html/synerx.lk/admin panel/customerRegister.php on line 213
+[12-Feb-2024 15:42:19 UTC] PHP Warning:  Undefined variable $name in /home2/xcobra/public_html/synerx.lk/admin panel/customerRegister.php on line 213
+[13-Feb-2024 04:03:29 UTC] PHP Warning:  Undefined array key "username" in /home2/xcobra/public_html/synerx.lk/admin panel/home.php on line 14
+[13-Feb-2024 04:03:54 UTC] PHP Warning:  Undefined array key "username" in /home2/xcobra/public_html/synerx.lk/admin panel/home.php on line 14
+[13-Feb-2024 04:04:27 UTC] PHP Warning:  Undefined array key "username" in /home2/xcobra/public_html/synerx.lk/admin panel/home.php on line 14
+[13-Feb-2024 04:06:20 UTC] PHP Warning:  Undefined array key "username" in /home2/xcobra/public_html/synerx.lk/admin panel/home.php on line 14
+[13-Feb-2024 04:33:44 UTC] PHP Warning:  Undefined array key "username" in /home2/xcobra/public_html/synerx.lk/admin panel/home.php on line 14
+[13-Feb-2024 07:14:38 UTC] PHP Warning:  Undefined array key "username" in /home2/xcobra/public_html/synerx.lk/admin panel/home.php on line 14
+[13-Feb-2024 07:14:38 UTC] PHP Warning:  Undefined array key "username" in /home2/xcobra/public_html/synerx.lk/admin panel/home.php on line 14
+[13-Feb-2024 07:14:41 UTC] PHP Warning:  Undefined array key "username" in /home2/xcobra/public_html/synerx.lk/admin panel/home.php on line 14
+[13-Feb-2024 07:14:41 UTC] PHP Warning:  Undefined array key "username" in /home2/xcobra/public_html/synerx.lk/admin panel/home.php on line 14
+[13-Feb-2024 07:14:52 UTC] PHP Warning:  Undefined array key "username" in /home2/xcobra/public_html/synerx.lk/admin panel/home.php on line 14
+[13-Feb-2024 07:14:53 UTC] PHP Warning:  Undefined array key "username" in /home2/xcobra/public_html/synerx.lk/admin panel/home.php on line 14
+[13-Feb-2024 07:14:57 UTC] PHP Warning:  Undefined array key "username" in /home2/xcobra/public_html/synerx.lk/admin panel/home.php on line 14
+[13-Feb-2024 07:14:57 UTC] PHP Warning:  Undefined array key "username" in /home2/xcobra/public_html/synerx.lk/admin panel/home.php on line 14
+[13-Feb-2024 10:08:51 UTC] PHP Warning:  Undefined array key "username" in /home2/xcobra/public_html/synerx.lk/admin panel/home.php on line 14
+[13-Feb-2024 10:20:14 UTC] PHP Fatal error:  Uncaught Error: mysqli object is already closed in /home2/xcobra/public_html/synerx.lk/admin panel/orders.php:326
+Stack trace:
+#0 /home2/xcobra/public_html/synerx.lk/admin panel/orders.php(326): mysqli->close()
+#1 {main}
+  thrown in /home2/xcobra/public_html/synerx.lk/admin panel/orders.php on line 326
+[13-Feb-2024 10:20:15 UTC] PHP Fatal error:  Uncaught Error: mysqli object is already closed in /home2/xcobra/public_html/synerx.lk/admin panel/orders.php:326
+Stack trace:
+#0 /home2/xcobra/public_html/synerx.lk/admin panel/orders.php(326): mysqli->close()
+#1 {main}
+  thrown in /home2/xcobra/public_html/synerx.lk/admin panel/orders.php on line 326
+[13-Feb-2024 10:21:54 UTC] PHP Warning:  Undefined variable $orderDetails in /home2/xcobra/public_html/synerx.lk/admin panel/viewOrder.php on line 34
+[13-Feb-2024 10:21:54 UTC] PHP Warning:  Trying to access array offset on value of type null in /home2/xcobra/public_html/synerx.lk/admin panel/viewOrder.php on line 34
+[13-Feb-2024 10:21:54 UTC] PHP Warning:  Undefined variable $orderDetails in /home2/xcobra/public_html/synerx.lk/admin panel/viewOrder.php on line 35
+[13-Feb-2024 10:21:54 UTC] PHP Warning:  Trying to access array offset on value of type null in /home2/xcobra/public_html/synerx.lk/admin panel/viewOrder.php on line 35
+[13-Feb-2024 10:21:54 UTC] PHP Warning:  Undefined variable $orderDetails in /home2/xcobra/public_html/synerx.lk/admin panel/viewOrder.php on line 36
+[13-Feb-2024 10:21:54 UTC] PHP Warning:  Trying to access array offset on value of type null in /home2/xcobra/public_html/synerx.lk/admin panel/viewOrder.php on line 36
+[13-Feb-2024 10:21:54 UTC] PHP Warning:  Undefined variable $orderDetails in /home2/xcobra/public_html/synerx.lk/admin panel/viewOrder.php on line 37
+[13-Feb-2024 10:21:54 UTC] PHP Warning:  Trying to access array offset on value of type null in /home2/xcobra/public_html/synerx.lk/admin panel/viewOrder.php on line 37
+[13-Feb-2024 10:21:54 UTC] PHP Warning:  Undefined variable $orderDetails in /home2/xcobra/public_html/synerx.lk/admin panel/viewOrder.php on line 39
+[13-Feb-2024 10:21:54 UTC] PHP Warning:  Trying to access array offset on value of type null in /home2/xcobra/public_html/synerx.lk/admin panel/viewOrder.php on line 39
+[13-Feb-2024 10:21:54 UTC] PHP Warning:  Undefined variable $orderDetails in /home2/xcobra/public_html/synerx.lk/admin panel/viewOrder.php on line 40
+[13-Feb-2024 10:21:54 UTC] PHP Warning:  Trying to access array offset on value of type null in /home2/xcobra/public_html/synerx.lk/admin panel/viewOrder.php on line 40
+[13-Feb-2024 10:21:54 UTC] PHP Warning:  Undefined variable $orderDetails in /home2/xcobra/public_html/synerx.lk/admin panel/viewOrder.php on line 41
+[13-Feb-2024 10:21:54 UTC] PHP Warning:  Trying to access array offset on value of type null in /home2/xcobra/public_html/synerx.lk/admin panel/viewOrder.php on line 41
+[13-Feb-2024 10:21:54 UTC] PHP Warning:  Undefined variable $orderDetails in /home2/xcobra/public_html/synerx.lk/admin panel/viewOrder.php on line 43
+[13-Feb-2024 10:21:54 UTC] PHP Warning:  Trying to access array offset on value of type null in /home2/xcobra/public_html/synerx.lk/admin panel/viewOrder.php on line 43
+[13-Feb-2024 10:21:54 UTC] PHP Warning:  Undefined variable $orderDetails in /home2/xcobra/public_html/synerx.lk/admin panel/viewOrder.php on line 44
+[13-Feb-2024 10:21:54 UTC] PHP Warning:  Trying to access array offset on value of type null in /home2/xcobra/public_html/synerx.lk/admin panel/viewOrder.php on line 44
+[13-Feb-2024 10:21:54 UTC] PHP Warning:  Undefined variable $orderDetails in /home2/xcobra/public_html/synerx.lk/admin panel/viewOrder.php on line 46
+[13-Feb-2024 10:21:54 UTC] PHP Warning:  Trying to access array offset on value of type null in /home2/xcobra/public_html/synerx.lk/admin panel/viewOrder.php on line 46
+[13-Feb-2024 10:21:54 UTC] PHP Warning:  Undefined variable $orderDetails in /home2/xcobra/public_html/synerx.lk/admin panel/viewOrder.php on line 48
+[13-Feb-2024 10:21:54 UTC] PHP Warning:  Trying to access array offset on value of type null in /home2/xcobra/public_html/synerx.lk/admin panel/viewOrder.php on line 48
+[13-Feb-2024 10:21:54 UTC] PHP Warning:  Undefined variable $orderDetails in /home2/xcobra/public_html/synerx.lk/admin panel/viewOrder.php on line 50
+[13-Feb-2024 10:21:54 UTC] PHP Warning:  Trying to access array offset on value of type null in /home2/xcobra/public_html/synerx.lk/admin panel/viewOrder.php on line 50
+[13-Feb-2024 10:21:57 UTC] PHP Warning:  Undefined variable $orderDetails in /home2/xcobra/public_html/synerx.lk/admin panel/viewOrder.php on line 34
+[13-Feb-2024 10:21:57 UTC] PHP Warning:  Trying to access array offset on value of type null in /home2/xcobra/public_html/synerx.lk/admin panel/viewOrder.php on line 34
+[13-Feb-2024 10:21:57 UTC] PHP Warning:  Undefined variable $orderDetails in /home2/xcobra/public_html/synerx.lk/admin panel/viewOrder.php on line 35
+[13-Feb-2024 10:21:57 UTC] PHP Warning:  Trying to access array offset on value of type null in /home2/xcobra/public_html/synerx.lk/admin panel/viewOrder.php on line 35
+[13-Feb-2024 10:21:57 UTC] PHP Warning:  Undefined variable $orderDetails in /home2/xcobra/public_html/synerx.lk/admin panel/viewOrder.php on line 36
+[13-Feb-2024 10:21:57 UTC] PHP Warning:  Trying to access array offset on value of type null in /home2/xcobra/public_html/synerx.lk/admin panel/viewOrder.php on line 36
+[13-Feb-2024 10:21:57 UTC] PHP Warning:  Undefined variable $orderDetails in /home2/xcobra/public_html/synerx.lk/admin panel/viewOrder.php on line 37
+[13-Feb-2024 10:21:57 UTC] PHP Warning:  Trying to access array offset on value of type null in /home2/xcobra/public_html/synerx.lk/admin panel/viewOrder.php on line 37
+[13-Feb-2024 10:21:57 UTC] PHP Warning:  Undefined variable $orderDetails in /home2/xcobra/public_html/synerx.lk/admin panel/viewOrder.php on line 39
+[13-Feb-2024 10:21:57 UTC] PHP Warning:  Trying to access array offset on value of type null in /home2/xcobra/public_html/synerx.lk/admin panel/viewOrder.php on line 39
+[13-Feb-2024 10:21:57 UTC] PHP Warning:  Undefined variable $orderDetails in /home2/xcobra/public_html/synerx.lk/admin panel/viewOrder.php on line 40
+[13-Feb-2024 10:21:57 UTC] PHP Warning:  Trying to access array offset on value of type null in /home2/xcobra/public_html/synerx.lk/admin panel/viewOrder.php on line 40
+[13-Feb-2024 10:21:57 UTC] PHP Warning:  Undefined variable $orderDetails in /home2/xcobra/public_html/synerx.lk/admin panel/viewOrder.php on line 41
+[13-Feb-2024 10:21:57 UTC] PHP Warning:  Trying to access array offset on value of type null in /home2/xcobra/public_html/synerx.lk/admin panel/viewOrder.php on line 41
+[13-Feb-2024 10:21:57 UTC] PHP Warning:  Undefined variable $orderDetails in /home2/xcobra/public_html/synerx.lk/admin panel/viewOrder.php on line 43
+[13-Feb-2024 10:21:57 UTC] PHP Warning:  Trying to access array offset on value of type null in /home2/xcobra/public_html/synerx.lk/admin panel/viewOrder.php on line 43
+[13-Feb-2024 10:21:57 UTC] PHP Warning:  Undefined variable $orderDetails in /home2/xcobra/public_html/synerx.lk/admin panel/viewOrder.php on line 44
+[13-Feb-2024 10:21:57 UTC] PHP Warning:  Trying to access array offset on value of type null in /home2/xcobra/public_html/synerx.lk/admin panel/viewOrder.php on line 44
+[13-Feb-2024 10:21:57 UTC] PHP Warning:  Undefined variable $orderDetails in /home2/xcobra/public_html/synerx.lk/admin panel/viewOrder.php on line 46
+[13-Feb-2024 10:21:57 UTC] PHP Warning:  Trying to access array offset on value of type null in /home2/xcobra/public_html/synerx.lk/admin panel/viewOrder.php on line 46
+[13-Feb-2024 10:21:57 UTC] PHP Warning:  Undefined variable $orderDetails in /home2/xcobra/public_html/synerx.lk/admin panel/viewOrder.php on line 48
+[13-Feb-2024 10:21:57 UTC] PHP Warning:  Trying to access array offset on value of type null in /home2/xcobra/public_html/synerx.lk/admin panel/viewOrder.php on line 48
+[13-Feb-2024 10:21:57 UTC] PHP Warning:  Undefined variable $orderDetails in /home2/xcobra/public_html/synerx.lk/admin panel/viewOrder.php on line 50
+[13-Feb-2024 10:21:57 UTC] PHP Warning:  Trying to access array offset on value of type null in /home2/xcobra/public_html/synerx.lk/admin panel/viewOrder.php on line 50
+[13-Feb-2024 10:22:11 UTC] PHP Warning:  Undefined variable $orderDetails in /home2/xcobra/public_html/synerx.lk/admin panel/viewOrder.php on line 34
+[13-Feb-2024 10:22:11 UTC] PHP Warning:  Trying to access array offset on value of type null in /home2/xcobra/public_html/synerx.lk/admin panel/viewOrder.php on line 34
+[13-Feb-2024 10:22:11 UTC] PHP Warning:  Undefined variable $orderDetails in /home2/xcobra/public_html/synerx.lk/admin panel/viewOrder.php on line 35
+[13-Feb-2024 10:22:11 UTC] PHP Warning:  Trying to access array offset on value of type null in /home2/xcobra/public_html/synerx.lk/admin panel/viewOrder.php on line 35
+[13-Feb-2024 10:22:11 UTC] PHP Warning:  Undefined variable $orderDetails in /home2/xcobra/public_html/synerx.lk/admin panel/viewOrder.php on line 36
+[13-Feb-2024 10:22:11 UTC] PHP Warning:  Trying to access array offset on value of type null in /home2/xcobra/public_html/synerx.lk/admin panel/viewOrder.php on line 36
+[13-Feb-2024 10:22:11 UTC] PHP Warning:  Undefined variable $orderDetails in /home2/xcobra/public_html/synerx.lk/admin panel/viewOrder.php on line 37
+[13-Feb-2024 10:22:11 UTC] PHP Warning:  Trying to access array offset on value of type null in /home2/xcobra/public_html/synerx.lk/admin panel/viewOrder.php on line 37
+[13-Feb-2024 10:22:11 UTC] PHP Warning:  Undefined variable $orderDetails in /home2/xcobra/public_html/synerx.lk/admin panel/viewOrder.php on line 39
+[13-Feb-2024 10:22:11 UTC] PHP Warning:  Trying to access array offset on value of type null in /home2/xcobra/public_html/synerx.lk/admin panel/viewOrder.php on line 39
+[13-Feb-2024 10:22:11 UTC] PHP Warning:  Undefined variable $orderDetails in /home2/xcobra/public_html/synerx.lk/admin panel/viewOrder.php on line 40
+[13-Feb-2024 10:22:11 UTC] PHP Warning:  Trying to access array offset on value of type null in /home2/xcobra/public_html/synerx.lk/admin panel/viewOrder.php on line 40
+[13-Feb-2024 10:22:11 UTC] PHP Warning:  Undefined variable $orderDetails in /home2/xcobra/public_html/synerx.lk/admin panel/viewOrder.php on line 41
+[13-Feb-2024 10:22:11 UTC] PHP Warning:  Trying to access array offset on value of type null in /home2/xcobra/public_html/synerx.lk/admin panel/viewOrder.php on line 41
+[13-Feb-2024 10:22:11 UTC] PHP Warning:  Undefined variable $orderDetails in /home2/xcobra/public_html/synerx.lk/admin panel/viewOrder.php on line 43
+[13-Feb-2024 10:22:11 UTC] PHP Warning:  Trying to access array offset on value of type null in /home2/xcobra/public_html/synerx.lk/admin panel/viewOrder.php on line 43
+[13-Feb-2024 10:22:11 UTC] PHP Warning:  Undefined variable $orderDetails in /home2/xcobra/public_html/synerx.lk/admin panel/viewOrder.php on line 44
+[13-Feb-2024 10:22:11 UTC] PHP Warning:  Trying to access array offset on value of type null in /home2/xcobra/public_html/synerx.lk/admin panel/viewOrder.php on line 44
+[13-Feb-2024 10:22:11 UTC] PHP Warning:  Undefined variable $orderDetails in /home2/xcobra/public_html/synerx.lk/admin panel/viewOrder.php on line 46
+[13-Feb-2024 10:22:11 UTC] PHP Warning:  Trying to access array offset on value of type null in /home2/xcobra/public_html/synerx.lk/admin panel/viewOrder.php on line 46
+[13-Feb-2024 10:22:11 UTC] PHP Warning:  Undefined variable $orderDetails in /home2/xcobra/public_html/synerx.lk/admin panel/viewOrder.php on line 48
+[13-Feb-2024 10:22:11 UTC] PHP Warning:  Trying to access array offset on value of type null in /home2/xcobra/public_html/synerx.lk/admin panel/viewOrder.php on line 48
+[13-Feb-2024 10:22:11 UTC] PHP Warning:  Undefined variable $orderDetails in /home2/xcobra/public_html/synerx.lk/admin panel/viewOrder.php on line 50
+[13-Feb-2024 10:22:11 UTC] PHP Warning:  Trying to access array offset on value of type null in /home2/xcobra/public_html/synerx.lk/admin panel/viewOrder.php on line 50
+[13-Feb-2024 10:22:11 UTC] PHP Warning:  Undefined variable $orderDetails in /home2/xcobra/public_html/synerx.lk/admin panel/viewOrder.php on line 34
+[13-Feb-2024 10:22:11 UTC] PHP Warning:  Trying to access array offset on value of type null in /home2/xcobra/public_html/synerx.lk/admin panel/viewOrder.php on line 34
+[13-Feb-2024 10:22:11 UTC] PHP Warning:  Undefined variable $orderDetails in /home2/xcobra/public_html/synerx.lk/admin panel/viewOrder.php on line 35
+[13-Feb-2024 10:22:11 UTC] PHP Warning:  Trying to access array offset on value of type null in /home2/xcobra/public_html/synerx.lk/admin panel/viewOrder.php on line 35
+[13-Feb-2024 10:22:11 UTC] PHP Warning:  Undefined variable $orderDetails in /home2/xcobra/public_html/synerx.lk/admin panel/viewOrder.php on line 36
+[13-Feb-2024 10:22:11 UTC] PHP Warning:  Trying to access array offset on value of type null in /home2/xcobra/public_html/synerx.lk/admin panel/viewOrder.php on line 36
+[13-Feb-2024 10:22:11 UTC] PHP Warning:  Undefined variable $orderDetails in /home2/xcobra/public_html/synerx.lk/admin panel/viewOrder.php on line 37
+[13-Feb-2024 10:22:11 UTC] PHP Warning:  Trying to access array offset on value of type null in /home2/xcobra/public_html/synerx.lk/admin panel/viewOrder.php on line 37
+[13-Feb-2024 10:22:11 UTC] PHP Warning:  Undefined variable $orderDetails in /home2/xcobra/public_html/synerx.lk/admin panel/viewOrder.php on line 39
+[13-Feb-2024 10:22:11 UTC] PHP Warning:  Trying to access array offset on value of type null in /home2/xcobra/public_html/synerx.lk/admin panel/viewOrder.php on line 39
+[13-Feb-2024 10:22:11 UTC] PHP Warning:  Undefined variable $orderDetails in /home2/xcobra/public_html/synerx.lk/admin panel/viewOrder.php on line 40
+[13-Feb-2024 10:22:11 UTC] PHP Warning:  Trying to access array offset on value of type null in /home2/xcobra/public_html/synerx.lk/admin panel/viewOrder.php on line 40
+[13-Feb-2024 10:22:11 UTC] PHP Warning:  Undefined variable $orderDetails in /home2/xcobra/public_html/synerx.lk/admin panel/viewOrder.php on line 41
+[13-Feb-2024 10:22:11 UTC] PHP Warning:  Trying to access array offset on value of type null in /home2/xcobra/public_html/synerx.lk/admin panel/viewOrder.php on line 41
+[13-Feb-2024 10:22:11 UTC] PHP Warning:  Undefined variable $orderDetails in /home2/xcobra/public_html/synerx.lk/admin panel/viewOrder.php on line 43
+[13-Feb-2024 10:22:11 UTC] PHP Warning:  Trying to access array offset on value of type null in /home2/xcobra/public_html/synerx.lk/admin panel/viewOrder.php on line 43
+[13-Feb-2024 10:22:11 UTC] PHP Warning:  Undefined variable $orderDetails in /home2/xcobra/public_html/synerx.lk/admin panel/viewOrder.php on line 44
+[13-Feb-2024 10:22:11 UTC] PHP Warning:  Trying to access array offset on value of type null in /home2/xcobra/public_html/synerx.lk/admin panel/viewOrder.php on line 44
+[13-Feb-2024 10:22:11 UTC] PHP Warning:  Undefined variable $orderDetails in /home2/xcobra/public_html/synerx.lk/admin panel/viewOrder.php on line 46
+[13-Feb-2024 10:22:11 UTC] PHP Warning:  Trying to access array offset on value of type null in /home2/xcobra/public_html/synerx.lk/admin panel/viewOrder.php on line 46
+[13-Feb-2024 10:22:11 UTC] PHP Warning:  Undefined variable $orderDetails in /home2/xcobra/public_html/synerx.lk/admin panel/viewOrder.php on line 48
+[13-Feb-2024 10:22:11 UTC] PHP Warning:  Trying to access array offset on value of type null in /home2/xcobra/public_html/synerx.lk/admin panel/viewOrder.php on line 48
+[13-Feb-2024 10:22:11 UTC] PHP Warning:  Undefined variable $orderDetails in /home2/xcobra/public_html/synerx.lk/admin panel/viewOrder.php on line 50
+[13-Feb-2024 10:22:11 UTC] PHP Warning:  Trying to access array offset on value of type null in /home2/xcobra/public_html/synerx.lk/admin panel/viewOrder.php on line 50
+[13-Feb-2024 10:23:45 UTC] PHP Warning:  Undefined variable $orderDetails in /home2/xcobra/public_html/synerx.lk/admin panel/viewOrder.php on line 34
+[13-Feb-2024 10:23:45 UTC] PHP Warning:  Trying to access array offset on value of type null in /home2/xcobra/public_html/synerx.lk/admin panel/viewOrder.php on line 34
+[13-Feb-2024 10:23:45 UTC] PHP Warning:  Undefined variable $orderDetails in /home2/xcobra/public_html/synerx.lk/admin panel/viewOrder.php on line 35
+[13-Feb-2024 10:23:45 UTC] PHP Warning:  Trying to access array offset on value of type null in /home2/xcobra/public_html/synerx.lk/admin panel/viewOrder.php on line 35
+[13-Feb-2024 10:23:45 UTC] PHP Warning:  Undefined variable $orderDetails in /home2/xcobra/public_html/synerx.lk/admin panel/viewOrder.php on line 36
+[13-Feb-2024 10:23:45 UTC] PHP Warning:  Trying to access array offset on value of type null in /home2/xcobra/public_html/synerx.lk/admin panel/viewOrder.php on line 36
+[13-Feb-2024 10:23:45 UTC] PHP Warning:  Undefined variable $orderDetails in /home2/xcobra/public_html/synerx.lk/admin panel/viewOrder.php on line 37
+[13-Feb-2024 10:23:45 UTC] PHP Warning:  Trying to access array offset on value of type null in /home2/xcobra/public_html/synerx.lk/admin panel/viewOrder.php on line 37
+[13-Feb-2024 10:23:45 UTC] PHP Warning:  Undefined variable $orderDetails in /home2/xcobra/public_html/synerx.lk/admin panel/viewOrder.php on line 39
+[13-Feb-2024 10:23:45 UTC] PHP Warning:  Trying to access array offset on value of type null in /home2/xcobra/public_html/synerx.lk/admin panel/viewOrder.php on line 39
+[13-Feb-2024 10:23:45 UTC] PHP Warning:  Undefined variable $orderDetails in /home2/xcobra/public_html/synerx.lk/admin panel/viewOrder.php on line 40
+[13-Feb-2024 10:23:45 UTC] PHP Warning:  Trying to access array offset on value of type null in /home2/xcobra/public_html/synerx.lk/admin panel/viewOrder.php on line 40
+[13-Feb-2024 10:23:45 UTC] PHP Warning:  Undefined variable $orderDetails in /home2/xcobra/public_html/synerx.lk/admin panel/viewOrder.php on line 41
+[13-Feb-2024 10:23:45 UTC] PHP Warning:  Trying to access array offset on value of type null in /home2/xcobra/public_html/synerx.lk/admin panel/viewOrder.php on line 41
+[13-Feb-2024 10:23:45 UTC] PHP Warning:  Undefined variable $orderDetails in /home2/xcobra/public_html/synerx.lk/admin panel/viewOrder.php on line 43
+[13-Feb-2024 10:23:45 UTC] PHP Warning:  Trying to access array offset on value of type null in /home2/xcobra/public_html/synerx.lk/admin panel/viewOrder.php on line 43
+[13-Feb-2024 10:23:45 UTC] PHP Warning:  Undefined variable $orderDetails in /home2/xcobra/public_html/synerx.lk/admin panel/viewOrder.php on line 44
+[13-Feb-2024 10:23:45 UTC] PHP Warning:  Trying to access array offset on value of type null in /home2/xcobra/public_html/synerx.lk/admin panel/viewOrder.php on line 44
+[13-Feb-2024 10:23:45 UTC] PHP Warning:  Undefined variable $orderDetails in /home2/xcobra/public_html/synerx.lk/admin panel/viewOrder.php on line 46
+[13-Feb-2024 10:23:45 UTC] PHP Warning:  Trying to access array offset on value of type null in /home2/xcobra/public_html/synerx.lk/admin panel/viewOrder.php on line 46
+[13-Feb-2024 10:23:45 UTC] PHP Warning:  Undefined variable $orderDetails in /home2/xcobra/public_html/synerx.lk/admin panel/viewOrder.php on line 48
+[13-Feb-2024 10:23:45 UTC] PHP Warning:  Trying to access array offset on value of type null in /home2/xcobra/public_html/synerx.lk/admin panel/viewOrder.php on line 48
+[13-Feb-2024 10:23:45 UTC] PHP Warning:  Undefined variable $orderDetails in /home2/xcobra/public_html/synerx.lk/admin panel/viewOrder.php on line 50
+[13-Feb-2024 10:23:45 UTC] PHP Warning:  Trying to access array offset on value of type null in /home2/xcobra/public_html/synerx.lk/admin panel/viewOrder.php on line 50
+[13-Feb-2024 10:23:45 UTC] PHP Warning:  Undefined variable $orderDetails in /home2/xcobra/public_html/synerx.lk/admin panel/viewOrder.php on line 34
+[13-Feb-2024 10:23:45 UTC] PHP Warning:  Trying to access array offset on value of type null in /home2/xcobra/public_html/synerx.lk/admin panel/viewOrder.php on line 34
+[13-Feb-2024 10:23:45 UTC] PHP Warning:  Undefined variable $orderDetails in /home2/xcobra/public_html/synerx.lk/admin panel/viewOrder.php on line 35
+[13-Feb-2024 10:23:45 UTC] PHP Warning:  Trying to access array offset on value of type null in /home2/xcobra/public_html/synerx.lk/admin panel/viewOrder.php on line 35
+[13-Feb-2024 10:23:45 UTC] PHP Warning:  Undefined variable $orderDetails in /home2/xcobra/public_html/synerx.lk/admin panel/viewOrder.php on line 36
+[13-Feb-2024 10:23:45 UTC] PHP Warning:  Trying to access array offset on value of type null in /home2/xcobra/public_html/synerx.lk/admin panel/viewOrder.php on line 36
+[13-Feb-2024 10:23:45 UTC] PHP Warning:  Undefined variable $orderDetails in /home2/xcobra/public_html/synerx.lk/admin panel/viewOrder.php on line 37
+[13-Feb-2024 10:23:45 UTC] PHP Warning:  Trying to access array offset on value of type null in /home2/xcobra/public_html/synerx.lk/admin panel/viewOrder.php on line 37
+[13-Feb-2024 10:23:45 UTC] PHP Warning:  Undefined variable $orderDetails in /home2/xcobra/public_html/synerx.lk/admin panel/viewOrder.php on line 39
+[13-Feb-2024 10:23:45 UTC] PHP Warning:  Trying to access array offset on value of type null in /home2/xcobra/public_html/synerx.lk/admin panel/viewOrder.php on line 39
+[13-Feb-2024 10:23:45 UTC] PHP Warning:  Undefined variable $orderDetails in /home2/xcobra/public_html/synerx.lk/admin panel/viewOrder.php on line 40
+[13-Feb-2024 10:23:45 UTC] PHP Warning:  Trying to access array offset on value of type null in /home2/xcobra/public_html/synerx.lk/admin panel/viewOrder.php on line 40
+[13-Feb-2024 10:23:45 UTC] PHP Warning:  Undefined variable $orderDetails in /home2/xcobra/public_html/synerx.lk/admin panel/viewOrder.php on line 41
+[13-Feb-2024 10:23:45 UTC] PHP Warning:  Trying to access array offset on value of type null in /home2/xcobra/public_html/synerx.lk/admin panel/viewOrder.php on line 41
+[13-Feb-2024 10:23:45 UTC] PHP Warning:  Undefined variable $orderDetails in /home2/xcobra/public_html/synerx.lk/admin panel/viewOrder.php on line 43
+[13-Feb-2024 10:23:45 UTC] PHP Warning:  Trying to access array offset on value of type null in /home2/xcobra/public_html/synerx.lk/admin panel/viewOrder.php on line 43
+[13-Feb-2024 10:23:45 UTC] PHP Warning:  Undefined variable $orderDetails in /home2/xcobra/public_html/synerx.lk/admin panel/viewOrder.php on line 44
+[13-Feb-2024 10:23:45 UTC] PHP Warning:  Trying to access array offset on value of type null in /home2/xcobra/public_html/synerx.lk/admin panel/viewOrder.php on line 44
+[13-Feb-2024 10:23:45 UTC] PHP Warning:  Undefined variable $orderDetails in /home2/xcobra/public_html/synerx.lk/admin panel/viewOrder.php on line 46
+[13-Feb-2024 10:23:45 UTC] PHP Warning:  Trying to access array offset on value of type null in /home2/xcobra/public_html/synerx.lk/admin panel/viewOrder.php on line 46
+[13-Feb-2024 10:23:45 UTC] PHP Warning:  Undefined variable $orderDetails in /home2/xcobra/public_html/synerx.lk/admin panel/viewOrder.php on line 48
+[13-Feb-2024 10:23:45 UTC] PHP Warning:  Trying to access array offset on value of type null in /home2/xcobra/public_html/synerx.lk/admin panel/viewOrder.php on line 48
+[13-Feb-2024 10:23:45 UTC] PHP Warning:  Undefined variable $orderDetails in /home2/xcobra/public_html/synerx.lk/admin panel/viewOrder.php on line 50
+[13-Feb-2024 10:23:45 UTC] PHP Warning:  Trying to access array offset on value of type null in /home2/xcobra/public_html/synerx.lk/admin panel/viewOrder.php on line 50
+[13-Feb-2024 10:23:47 UTC] PHP Warning:  Undefined variable $orderDetails in /home2/xcobra/public_html/synerx.lk/admin panel/viewOrder.php on line 34
+[13-Feb-2024 10:23:47 UTC] PHP Warning:  Trying to access array offset on value of type null in /home2/xcobra/public_html/synerx.lk/admin panel/viewOrder.php on line 34
+[13-Feb-2024 10:23:47 UTC] PHP Warning:  Undefined variable $orderDetails in /home2/xcobra/public_html/synerx.lk/admin panel/viewOrder.php on line 35
+[13-Feb-2024 10:23:47 UTC] PHP Warning:  Trying to access array offset on value of type null in /home2/xcobra/public_html/synerx.lk/admin panel/viewOrder.php on line 35
+[13-Feb-2024 10:23:47 UTC] PHP Warning:  Undefined variable $orderDetails in /home2/xcobra/public_html/synerx.lk/admin panel/viewOrder.php on line 36
+[13-Feb-2024 10:23:47 UTC] PHP Warning:  Trying to access array offset on value of type null in /home2/xcobra/public_html/synerx.lk/admin panel/viewOrder.php on line 36
+[13-Feb-2024 10:23:47 UTC] PHP Warning:  Undefined variable $orderDetails in /home2/xcobra/public_html/synerx.lk/admin panel/viewOrder.php on line 37
+[13-Feb-2024 10:23:47 UTC] PHP Warning:  Trying to access array offset on value of type null in /home2/xcobra/public_html/synerx.lk/admin panel/viewOrder.php on line 37
+[13-Feb-2024 10:23:47 UTC] PHP Warning:  Undefined variable $orderDetails in /home2/xcobra/public_html/synerx.lk/admin panel/viewOrder.php on line 39
+[13-Feb-2024 10:23:47 UTC] PHP Warning:  Trying to access array offset on value of type null in /home2/xcobra/public_html/synerx.lk/admin panel/viewOrder.php on line 39
+[13-Feb-2024 10:23:47 UTC] PHP Warning:  Undefined variable $orderDetails in /home2/xcobra/public_html/synerx.lk/admin panel/viewOrder.php on line 40
+[13-Feb-2024 10:23:47 UTC] PHP Warning:  Trying to access array offset on value of type null in /home2/xcobra/public_html/synerx.lk/admin panel/viewOrder.php on line 40
+[13-Feb-2024 10:23:47 UTC] PHP Warning:  Undefined variable $orderDetails in /home2/xcobra/public_html/synerx.lk/admin panel/viewOrder.php on line 41
+[13-Feb-2024 10:23:47 UTC] PHP Warning:  Trying to access array offset on value of type null in /home2/xcobra/public_html/synerx.lk/admin panel/viewOrder.php on line 41
+[13-Feb-2024 10:23:47 UTC] PHP Warning:  Undefined variable $orderDetails in /home2/xcobra/public_html/synerx.lk/admin panel/viewOrder.php on line 43
+[13-Feb-2024 10:23:47 UTC] PHP Warning:  Trying to access array offset on value of type null in /home2/xcobra/public_html/synerx.lk/admin panel/viewOrder.php on line 43
+[13-Feb-2024 10:23:47 UTC] PHP Warning:  Undefined variable $orderDetails in /home2/xcobra/public_html/synerx.lk/admin panel/viewOrder.php on line 44
+[13-Feb-2024 10:23:47 UTC] PHP Warning:  Trying to access array offset on value of type null in /home2/xcobra/public_html/synerx.lk/admin panel/viewOrder.php on line 44
+[13-Feb-2024 10:23:47 UTC] PHP Warning:  Undefined variable $orderDetails in /home2/xcobra/public_html/synerx.lk/admin panel/viewOrder.php on line 46
+[13-Feb-2024 10:23:47 UTC] PHP Warning:  Trying to access array offset on value of type null in /home2/xcobra/public_html/synerx.lk/admin panel/viewOrder.php on line 46
+[13-Feb-2024 10:23:47 UTC] PHP Warning:  Undefined variable $orderDetails in /home2/xcobra/public_html/synerx.lk/admin panel/viewOrder.php on line 48
+[13-Feb-2024 10:23:47 UTC] PHP Warning:  Trying to access array offset on value of type null in /home2/xcobra/public_html/synerx.lk/admin panel/viewOrder.php on line 48
+[13-Feb-2024 10:23:47 UTC] PHP Warning:  Undefined variable $orderDetails in /home2/xcobra/public_html/synerx.lk/admin panel/viewOrder.php on line 50
+[13-Feb-2024 10:23:47 UTC] PHP Warning:  Trying to access array offset on value of type null in /home2/xcobra/public_html/synerx.lk/admin panel/viewOrder.php on line 50
+[13-Feb-2024 10:23:47 UTC] PHP Warning:  Undefined variable $orderDetails in /home2/xcobra/public_html/synerx.lk/admin panel/viewOrder.php on line 34
+[13-Feb-2024 10:23:47 UTC] PHP Warning:  Trying to access array offset on value of type null in /home2/xcobra/public_html/synerx.lk/admin panel/viewOrder.php on line 34
+[13-Feb-2024 10:23:47 UTC] PHP Warning:  Undefined variable $orderDetails in /home2/xcobra/public_html/synerx.lk/admin panel/viewOrder.php on line 35
+[13-Feb-2024 10:23:47 UTC] PHP Warning:  Trying to access array offset on value of type null in /home2/xcobra/public_html/synerx.lk/admin panel/viewOrder.php on line 35
+[13-Feb-2024 10:23:47 UTC] PHP Warning:  Undefined variable $orderDetails in /home2/xcobra/public_html/synerx.lk/admin panel/viewOrder.php on line 36
+[13-Feb-2024 10:23:47 UTC] PHP Warning:  Trying to access array offset on value of type null in /home2/xcobra/public_html/synerx.lk/admin panel/viewOrder.php on line 36
+[13-Feb-2024 10:23:47 UTC] PHP Warning:  Undefined variable $orderDetails in /home2/xcobra/public_html/synerx.lk/admin panel/viewOrder.php on line 37
+[13-Feb-2024 10:23:47 UTC] PHP Warning:  Trying to access array offset on value of type null in /home2/xcobra/public_html/synerx.lk/admin panel/viewOrder.php on line 37
+[13-Feb-2024 10:23:47 UTC] PHP Warning:  Undefined variable $orderDetails in /home2/xcobra/public_html/synerx.lk/admin panel/viewOrder.php on line 39
+[13-Feb-2024 10:23:47 UTC] PHP Warning:  Trying to access array offset on value of type null in /home2/xcobra/public_html/synerx.lk/admin panel/viewOrder.php on line 39
+[13-Feb-2024 10:23:47 UTC] PHP Warning:  Undefined variable $orderDetails in /home2/xcobra/public_html/synerx.lk/admin panel/viewOrder.php on line 40
+[13-Feb-2024 10:23:47 UTC] PHP Warning:  Trying to access array offset on value of type null in /home2/xcobra/public_html/synerx.lk/admin panel/viewOrder.php on line 40
+[13-Feb-2024 10:23:47 UTC] PHP Warning:  Undefined variable $orderDetails in /home2/xcobra/public_html/synerx.lk/admin panel/viewOrder.php on line 41
+[13-Feb-2024 10:23:47 UTC] PHP Warning:  Trying to access array offset on value of type null in /home2/xcobra/public_html/synerx.lk/admin panel/viewOrder.php on line 41
+[13-Feb-2024 10:23:47 UTC] PHP Warning:  Undefined variable $orderDetails in /home2/xcobra/public_html/synerx.lk/admin panel/viewOrder.php on line 43
+[13-Feb-2024 10:23:47 UTC] PHP Warning:  Trying to access array offset on value of type null in /home2/xcobra/public_html/synerx.lk/admin panel/viewOrder.php on line 43
+[13-Feb-2024 10:23:47 UTC] PHP Warning:  Undefined variable $orderDetails in /home2/xcobra/public_html/synerx.lk/admin panel/viewOrder.php on line 44
+[13-Feb-2024 10:23:47 UTC] PHP Warning:  Trying to access array offset on value of type null in /home2/xcobra/public_html/synerx.lk/admin panel/viewOrder.php on line 44
+[13-Feb-2024 10:23:47 UTC] PHP Warning:  Undefined variable $orderDetails in /home2/xcobra/public_html/synerx.lk/admin panel/viewOrder.php on line 46
+[13-Feb-2024 10:23:47 UTC] PHP Warning:  Trying to access array offset on value of type null in /home2/xcobra/public_html/synerx.lk/admin panel/viewOrder.php on line 46
+[13-Feb-2024 10:23:47 UTC] PHP Warning:  Undefined variable $orderDetails in /home2/xcobra/public_html/synerx.lk/admin panel/viewOrder.php on line 48
+[13-Feb-2024 10:23:47 UTC] PHP Warning:  Trying to access array offset on value of type null in /home2/xcobra/public_html/synerx.lk/admin panel/viewOrder.php on line 48
+[13-Feb-2024 10:23:47 UTC] PHP Warning:  Undefined variable $orderDetails in /home2/xcobra/public_html/synerx.lk/admin panel/viewOrder.php on line 50
+[13-Feb-2024 10:23:47 UTC] PHP Warning:  Trying to access array offset on value of type null in /home2/xcobra/public_html/synerx.lk/admin panel/viewOrder.php on line 50
+[13-Feb-2024 10:23:47 UTC] PHP Warning:  Undefined variable $orderDetails in /home2/xcobra/public_html/synerx.lk/admin panel/viewOrder.php on line 34
+[13-Feb-2024 10:23:47 UTC] PHP Warning:  Trying to access array offset on value of type null in /home2/xcobra/public_html/synerx.lk/admin panel/viewOrder.php on line 34
+[13-Feb-2024 10:23:47 UTC] PHP Warning:  Undefined variable $orderDetails in /home2/xcobra/public_html/synerx.lk/admin panel/viewOrder.php on line 35
+[13-Feb-2024 10:23:47 UTC] PHP Warning:  Trying to access array offset on value of type null in /home2/xcobra/public_html/synerx.lk/admin panel/viewOrder.php on line 35
+[13-Feb-2024 10:23:47 UTC] PHP Warning:  Undefined variable $orderDetails in /home2/xcobra/public_html/synerx.lk/admin panel/viewOrder.php on line 36
+[13-Feb-2024 10:23:47 UTC] PHP Warning:  Trying to access array offset on value of type null in /home2/xcobra/public_html/synerx.lk/admin panel/viewOrder.php on line 36
+[13-Feb-2024 10:23:47 UTC] PHP Warning:  Undefined variable $orderDetails in /home2/xcobra/public_html/synerx.lk/admin panel/viewOrder.php on line 37
+[13-Feb-2024 10:23:47 UTC] PHP Warning:  Trying to access array offset on value of type null in /home2/xcobra/public_html/synerx.lk/admin panel/viewOrder.php on line 37
+[13-Feb-2024 10:23:47 UTC] PHP Warning:  Undefined variable $orderDetails in /home2/xcobra/public_html/synerx.lk/admin panel/viewOrder.php on line 39
+[13-Feb-2024 10:23:47 UTC] PHP Warning:  Trying to access array offset on value of type null in /home2/xcobra/public_html/synerx.lk/admin panel/viewOrder.php on line 39
+[13-Feb-2024 10:23:47 UTC] PHP Warning:  Undefined variable $orderDetails in /home2/xcobra/public_html/synerx.lk/admin panel/viewOrder.php on line 40
+[13-Feb-2024 10:23:47 UTC] PHP Warning:  Trying to access array offset on value of type null in /home2/xcobra/public_html/synerx.lk/admin panel/viewOrder.php on line 40
+[13-Feb-2024 10:23:47 UTC] PHP Warning:  Undefined variable $orderDetails in /home2/xcobra/public_html/synerx.lk/admin panel/viewOrder.php on line 41
+[13-Feb-2024 10:23:47 UTC] PHP Warning:  Trying to access array offset on value of type null in /home2/xcobra/public_html/synerx.lk/admin panel/viewOrder.php on line 41
+[13-Feb-2024 10:23:47 UTC] PHP Warning:  Undefined variable $orderDetails in /home2/xcobra/public_html/synerx.lk/admin panel/viewOrder.php on line 43
+[13-Feb-2024 10:23:47 UTC] PHP Warning:  Trying to access array offset on value of type null in /home2/xcobra/public_html/synerx.lk/admin panel/viewOrder.php on line 43
+[13-Feb-2024 10:23:47 UTC] PHP Warning:  Undefined variable $orderDetails in /home2/xcobra/public_html/synerx.lk/admin panel/viewOrder.php on line 44
+[13-Feb-2024 10:23:47 UTC] PHP Warning:  Trying to access array offset on value of type null in /home2/xcobra/public_html/synerx.lk/admin panel/viewOrder.php on line 44
+[13-Feb-2024 10:23:47 UTC] PHP Warning:  Undefined variable $orderDetails in /home2/xcobra/public_html/synerx.lk/admin panel/viewOrder.php on line 46
+[13-Feb-2024 10:23:47 UTC] PHP Warning:  Trying to access array offset on value of type null in /home2/xcobra/public_html/synerx.lk/admin panel/viewOrder.php on line 46
+[13-Feb-2024 10:23:47 UTC] PHP Warning:  Undefined variable $orderDetails in /home2/xcobra/public_html/synerx.lk/admin panel/viewOrder.php on line 48
+[13-Feb-2024 10:23:47 UTC] PHP Warning:  Trying to access array offset on value of type null in /home2/xcobra/public_html/synerx.lk/admin panel/viewOrder.php on line 48
+[13-Feb-2024 10:23:47 UTC] PHP Warning:  Undefined variable $orderDetails in /home2/xcobra/public_html/synerx.lk/admin panel/viewOrder.php on line 50
+[13-Feb-2024 10:23:47 UTC] PHP Warning:  Trying to access array offset on value of type null in /home2/xcobra/public_html/synerx.lk/admin panel/viewOrder.php on line 50
+[13-Feb-2024 10:23:47 UTC] PHP Warning:  Undefined variable $orderDetails in /home2/xcobra/public_html/synerx.lk/admin panel/viewOrder.php on line 34
+[13-Feb-2024 10:23:47 UTC] PHP Warning:  Trying to access array offset on value of type null in /home2/xcobra/public_html/synerx.lk/admin panel/viewOrder.php on line 34
+[13-Feb-2024 10:23:47 UTC] PHP Warning:  Undefined variable $orderDetails in /home2/xcobra/public_html/synerx.lk/admin panel/viewOrder.php on line 35
+[13-Feb-2024 10:23:47 UTC] PHP Warning:  Trying to access array offset on value of type null in /home2/xcobra/public_html/synerx.lk/admin panel/viewOrder.php on line 35
+[13-Feb-2024 10:23:47 UTC] PHP Warning:  Undefined variable $orderDetails in /home2/xcobra/public_html/synerx.lk/admin panel/viewOrder.php on line 36
+[13-Feb-2024 10:23:47 UTC] PHP Warning:  Trying to access array offset on value of type null in /home2/xcobra/public_html/synerx.lk/admin panel/viewOrder.php on line 36
+[13-Feb-2024 10:23:47 UTC] PHP Warning:  Undefined variable $orderDetails in /home2/xcobra/public_html/synerx.lk/admin panel/viewOrder.php on line 37
+[13-Feb-2024 10:23:47 UTC] PHP Warning:  Trying to access array offset on value of type null in /home2/xcobra/public_html/synerx.lk/admin panel/viewOrder.php on line 37
+[13-Feb-2024 10:23:47 UTC] PHP Warning:  Undefined variable $orderDetails in /home2/xcobra/public_html/synerx.lk/admin panel/viewOrder.php on line 39
+[13-Feb-2024 10:23:47 UTC] PHP Warning:  Trying to access array offset on value of type null in /home2/xcobra/public_html/synerx.lk/admin panel/viewOrder.php on line 39
+[13-Feb-2024 10:23:47 UTC] PHP Warning:  Undefined variable $orderDetails in /home2/xcobra/public_html/synerx.lk/admin panel/viewOrder.php on line 40
+[13-Feb-2024 10:23:47 UTC] PHP Warning:  Trying to access array offset on value of type null in /home2/xcobra/public_html/synerx.lk/admin panel/viewOrder.php on line 40
+[13-Feb-2024 10:23:47 UTC] PHP Warning:  Undefined variable $orderDetails in /home2/xcobra/public_html/synerx.lk/admin panel/viewOrder.php on line 41
+[13-Feb-2024 10:23:47 UTC] PHP Warning:  Trying to access array offset on value of type null in /home2/xcobra/public_html/synerx.lk/admin panel/viewOrder.php on line 41
+[13-Feb-2024 10:23:47 UTC] PHP Warning:  Undefined variable $orderDetails in /home2/xcobra/public_html/synerx.lk/admin panel/viewOrder.php on line 43
+[13-Feb-2024 10:23:47 UTC] PHP Warning:  Trying to access array offset on value of type null in /home2/xcobra/public_html/synerx.lk/admin panel/viewOrder.php on line 43
+[13-Feb-2024 10:23:47 UTC] PHP Warning:  Undefined variable $orderDetails in /home2/xcobra/public_html/synerx.lk/admin panel/viewOrder.php on line 44
+[13-Feb-2024 10:23:47 UTC] PHP Warning:  Trying to access array offset on value of type null in /home2/xcobra/public_html/synerx.lk/admin panel/viewOrder.php on line 44
+[13-Feb-2024 10:23:47 UTC] PHP Warning:  Undefined variable $orderDetails in /home2/xcobra/public_html/synerx.lk/admin panel/viewOrder.php on line 46
+[13-Feb-2024 10:23:47 UTC] PHP Warning:  Trying to access array offset on value of type null in /home2/xcobra/public_html/synerx.lk/admin panel/viewOrder.php on line 46
+[13-Feb-2024 10:23:47 UTC] PHP Warning:  Undefined variable $orderDetails in /home2/xcobra/public_html/synerx.lk/admin panel/viewOrder.php on line 48
+[13-Feb-2024 10:23:47 UTC] PHP Warning:  Trying to access array offset on value of type null in /home2/xcobra/public_html/synerx.lk/admin panel/viewOrder.php on line 48
+[13-Feb-2024 10:23:47 UTC] PHP Warning:  Undefined variable $orderDetails in /home2/xcobra/public_html/synerx.lk/admin panel/viewOrder.php on line 50
+[13-Feb-2024 10:23:47 UTC] PHP Warning:  Trying to access array offset on value of type null in /home2/xcobra/public_html/synerx.lk/admin panel/viewOrder.php on line 50
+[13-Feb-2024 10:24:11 UTC] PHP Warning:  Undefined variable $orderDetails in /home2/xcobra/public_html/synerx.lk/admin panel/viewOrder.php on line 34
+[13-Feb-2024 10:24:11 UTC] PHP Warning:  Trying to access array offset on value of type null in /home2/xcobra/public_html/synerx.lk/admin panel/viewOrder.php on line 34
+[13-Feb-2024 10:24:11 UTC] PHP Warning:  Undefined variable $orderDetails in /home2/xcobra/public_html/synerx.lk/admin panel/viewOrder.php on line 35
+[13-Feb-2024 10:24:11 UTC] PHP Warning:  Trying to access array offset on value of type null in /home2/xcobra/public_html/synerx.lk/admin panel/viewOrder.php on line 35
+[13-Feb-2024 10:24:11 UTC] PHP Warning:  Undefined variable $orderDetails in /home2/xcobra/public_html/synerx.lk/admin panel/viewOrder.php on line 36
+[13-Feb-2024 10:24:11 UTC] PHP Warning:  Trying to access array offset on value of type null in /home2/xcobra/public_html/synerx.lk/admin panel/viewOrder.php on line 36
+[13-Feb-2024 10:24:11 UTC] PHP Warning:  Undefined variable $orderDetails in /home2/xcobra/public_html/synerx.lk/admin panel/viewOrder.php on line 37
+[13-Feb-2024 10:24:11 UTC] PHP Warning:  Trying to access array offset on value of type null in /home2/xcobra/public_html/synerx.lk/admin panel/viewOrder.php on line 37
+[13-Feb-2024 10:24:11 UTC] PHP Warning:  Undefined variable $orderDetails in /home2/xcobra/public_html/synerx.lk/admin panel/viewOrder.php on line 39
+[13-Feb-2024 10:24:11 UTC] PHP Warning:  Trying to access array offset on value of type null in /home2/xcobra/public_html/synerx.lk/admin panel/viewOrder.php on line 39
+[13-Feb-2024 10:24:11 UTC] PHP Warning:  Undefined variable $orderDetails in /home2/xcobra/public_html/synerx.lk/admin panel/viewOrder.php on line 40
+[13-Feb-2024 10:24:11 UTC] PHP Warning:  Trying to access array offset on value of type null in /home2/xcobra/public_html/synerx.lk/admin panel/viewOrder.php on line 40
+[13-Feb-2024 10:24:11 UTC] PHP Warning:  Undefined variable $orderDetails in /home2/xcobra/public_html/synerx.lk/admin panel/viewOrder.php on line 41
+[13-Feb-2024 10:24:11 UTC] PHP Warning:  Trying to access array offset on value of type null in /home2/xcobra/public_html/synerx.lk/admin panel/viewOrder.php on line 41
+[13-Feb-2024 10:24:11 UTC] PHP Warning:  Undefined variable $orderDetails in /home2/xcobra/public_html/synerx.lk/admin panel/viewOrder.php on line 43
+[13-Feb-2024 10:24:11 UTC] PHP Warning:  Trying to access array offset on value of type null in /home2/xcobra/public_html/synerx.lk/admin panel/viewOrder.php on line 43
+[13-Feb-2024 10:24:11 UTC] PHP Warning:  Undefined variable $orderDetails in /home2/xcobra/public_html/synerx.lk/admin panel/viewOrder.php on line 44
+[13-Feb-2024 10:24:11 UTC] PHP Warning:  Trying to access array offset on value of type null in /home2/xcobra/public_html/synerx.lk/admin panel/viewOrder.php on line 44
+[13-Feb-2024 10:24:11 UTC] PHP Warning:  Undefined variable $orderDetails in /home2/xcobra/public_html/synerx.lk/admin panel/viewOrder.php on line 46
+[13-Feb-2024 10:24:11 UTC] PHP Warning:  Trying to access array offset on value of type null in /home2/xcobra/public_html/synerx.lk/admin panel/viewOrder.php on line 46
+[13-Feb-2024 10:24:11 UTC] PHP Warning:  Undefined variable $orderDetails in /home2/xcobra/public_html/synerx.lk/admin panel/viewOrder.php on line 48
+[13-Feb-2024 10:24:11 UTC] PHP Warning:  Trying to access array offset on value of type null in /home2/xcobra/public_html/synerx.lk/admin panel/viewOrder.php on line 48
+[13-Feb-2024 10:24:11 UTC] PHP Warning:  Undefined variable $orderDetails in /home2/xcobra/public_html/synerx.lk/admin panel/viewOrder.php on line 50
+[13-Feb-2024 10:24:11 UTC] PHP Warning:  Trying to access array offset on value of type null in /home2/xcobra/public_html/synerx.lk/admin panel/viewOrder.php on line 50
+[13-Feb-2024 10:24:11 UTC] PHP Warning:  Undefined variable $orderDetails in /home2/xcobra/public_html/synerx.lk/admin panel/viewOrder.php on line 34
+[13-Feb-2024 10:24:11 UTC] PHP Warning:  Trying to access array offset on value of type null in /home2/xcobra/public_html/synerx.lk/admin panel/viewOrder.php on line 34
+[13-Feb-2024 10:24:11 UTC] PHP Warning:  Undefined variable $orderDetails in /home2/xcobra/public_html/synerx.lk/admin panel/viewOrder.php on line 35
+[13-Feb-2024 10:24:11 UTC] PHP Warning:  Trying to access array offset on value of type null in /home2/xcobra/public_html/synerx.lk/admin panel/viewOrder.php on line 35
+[13-Feb-2024 10:24:11 UTC] PHP Warning:  Undefined variable $orderDetails in /home2/xcobra/public_html/synerx.lk/admin panel/viewOrder.php on line 36
+[13-Feb-2024 10:24:11 UTC] PHP Warning:  Trying to access array offset on value of type null in /home2/xcobra/public_html/synerx.lk/admin panel/viewOrder.php on line 36
+[13-Feb-2024 10:24:11 UTC] PHP Warning:  Undefined variable $orderDetails in /home2/xcobra/public_html/synerx.lk/admin panel/viewOrder.php on line 37
+[13-Feb-2024 10:24:11 UTC] PHP Warning:  Trying to access array offset on value of type null in /home2/xcobra/public_html/synerx.lk/admin panel/viewOrder.php on line 37
+[13-Feb-2024 10:24:11 UTC] PHP Warning:  Undefined variable $orderDetails in /home2/xcobra/public_html/synerx.lk/admin panel/viewOrder.php on line 39
+[13-Feb-2024 10:24:11 UTC] PHP Warning:  Trying to access array offset on value of type null in /home2/xcobra/public_html/synerx.lk/admin panel/viewOrder.php on line 39
+[13-Feb-2024 10:24:11 UTC] PHP Warning:  Undefined variable $orderDetails in /home2/xcobra/public_html/synerx.lk/admin panel/viewOrder.php on line 40
+[13-Feb-2024 10:24:11 UTC] PHP Warning:  Trying to access array offset on value of type null in /home2/xcobra/public_html/synerx.lk/admin panel/viewOrder.php on line 40
+[13-Feb-2024 10:24:11 UTC] PHP Warning:  Undefined variable $orderDetails in /home2/xcobra/public_html/synerx.lk/admin panel/viewOrder.php on line 41
+[13-Feb-2024 10:24:11 UTC] PHP Warning:  Trying to access array offset on value of type null in /home2/xcobra/public_html/synerx.lk/admin panel/viewOrder.php on line 41
+[13-Feb-2024 10:24:11 UTC] PHP Warning:  Undefined variable $orderDetails in /home2/xcobra/public_html/synerx.lk/admin panel/viewOrder.php on line 43
+[13-Feb-2024 10:24:11 UTC] PHP Warning:  Trying to access array offset on value of type null in /home2/xcobra/public_html/synerx.lk/admin panel/viewOrder.php on line 43
+[13-Feb-2024 10:24:11 UTC] PHP Warning:  Undefined variable $orderDetails in /home2/xcobra/public_html/synerx.lk/admin panel/viewOrder.php on line 44
+[13-Feb-2024 10:24:11 UTC] PHP Warning:  Trying to access array offset on value of type null in /home2/xcobra/public_html/synerx.lk/admin panel/viewOrder.php on line 44
+[13-Feb-2024 10:24:11 UTC] PHP Warning:  Undefined variable $orderDetails in /home2/xcobra/public_html/synerx.lk/admin panel/viewOrder.php on line 46
+[13-Feb-2024 10:24:11 UTC] PHP Warning:  Trying to access array offset on value of type null in /home2/xcobra/public_html/synerx.lk/admin panel/viewOrder.php on line 46
+[13-Feb-2024 10:24:11 UTC] PHP Warning:  Undefined variable $orderDetails in /home2/xcobra/public_html/synerx.lk/admin panel/viewOrder.php on line 48
+[13-Feb-2024 10:24:11 UTC] PHP Warning:  Trying to access array offset on value of type null in /home2/xcobra/public_html/synerx.lk/admin panel/viewOrder.php on line 48
+[13-Feb-2024 10:24:11 UTC] PHP Warning:  Undefined variable $orderDetails in /home2/xcobra/public_html/synerx.lk/admin panel/viewOrder.php on line 50
+[13-Feb-2024 10:24:11 UTC] PHP Warning:  Trying to access array offset on value of type null in /home2/xcobra/public_html/synerx.lk/admin panel/viewOrder.php on line 50
+[13-Feb-2024 10:25:45 UTC] PHP Warning:  Undefined variable $orderDetails in /home2/xcobra/public_html/synerx.lk/admin panel/viewOrder.php on line 34
+[13-Feb-2024 10:25:45 UTC] PHP Warning:  Trying to access array offset on value of type null in /home2/xcobra/public_html/synerx.lk/admin panel/viewOrder.php on line 34
+[13-Feb-2024 10:25:45 UTC] PHP Warning:  Undefined variable $orderDetails in /home2/xcobra/public_html/synerx.lk/admin panel/viewOrder.php on line 35
+[13-Feb-2024 10:25:45 UTC] PHP Warning:  Trying to access array offset on value of type null in /home2/xcobra/public_html/synerx.lk/admin panel/viewOrder.php on line 35
+[13-Feb-2024 10:25:45 UTC] PHP Warning:  Undefined variable $orderDetails in /home2/xcobra/public_html/synerx.lk/admin panel/viewOrder.php on line 36
+[13-Feb-2024 10:25:45 UTC] PHP Warning:  Trying to access array offset on value of type null in /home2/xcobra/public_html/synerx.lk/admin panel/viewOrder.php on line 36
+[13-Feb-2024 10:25:45 UTC] PHP Warning:  Undefined variable $orderDetails in /home2/xcobra/public_html/synerx.lk/admin panel/viewOrder.php on line 37
+[13-Feb-2024 10:25:45 UTC] PHP Warning:  Trying to access array offset on value of type null in /home2/xcobra/public_html/synerx.lk/admin panel/viewOrder.php on line 37
+[13-Feb-2024 10:25:45 UTC] PHP Warning:  Undefined variable $orderDetails in /home2/xcobra/public_html/synerx.lk/admin panel/viewOrder.php on line 39
+[13-Feb-2024 10:25:45 UTC] PHP Warning:  Trying to access array offset on value of type null in /home2/xcobra/public_html/synerx.lk/admin panel/viewOrder.php on line 39
+[13-Feb-2024 10:25:45 UTC] PHP Warning:  Undefined variable $orderDetails in /home2/xcobra/public_html/synerx.lk/admin panel/viewOrder.php on line 40
+[13-Feb-2024 10:25:45 UTC] PHP Warning:  Trying to access array offset on value of type null in /home2/xcobra/public_html/synerx.lk/admin panel/viewOrder.php on line 40
+[13-Feb-2024 10:25:45 UTC] PHP Warning:  Undefined variable $orderDetails in /home2/xcobra/public_html/synerx.lk/admin panel/viewOrder.php on line 41
+[13-Feb-2024 10:25:45 UTC] PHP Warning:  Trying to access array offset on value of type null in /home2/xcobra/public_html/synerx.lk/admin panel/viewOrder.php on line 41
+[13-Feb-2024 10:25:45 UTC] PHP Warning:  Undefined variable $orderDetails in /home2/xcobra/public_html/synerx.lk/admin panel/viewOrder.php on line 43
+[13-Feb-2024 10:25:45 UTC] PHP Warning:  Trying to access array offset on value of type null in /home2/xcobra/public_html/synerx.lk/admin panel/viewOrder.php on line 43
+[13-Feb-2024 10:25:45 UTC] PHP Warning:  Undefined variable $orderDetails in /home2/xcobra/public_html/synerx.lk/admin panel/viewOrder.php on line 44
+[13-Feb-2024 10:25:45 UTC] PHP Warning:  Trying to access array offset on value of type null in /home2/xcobra/public_html/synerx.lk/admin panel/viewOrder.php on line 44
+[13-Feb-2024 10:25:45 UTC] PHP Warning:  Undefined variable $orderDetails in /home2/xcobra/public_html/synerx.lk/admin panel/viewOrder.php on line 46
+[13-Feb-2024 10:25:45 UTC] PHP Warning:  Trying to access array offset on value of type null in /home2/xcobra/public_html/synerx.lk/admin panel/viewOrder.php on line 46
+[13-Feb-2024 10:25:45 UTC] PHP Warning:  Undefined variable $orderDetails in /home2/xcobra/public_html/synerx.lk/admin panel/viewOrder.php on line 48
+[13-Feb-2024 10:25:45 UTC] PHP Warning:  Trying to access array offset on value of type null in /home2/xcobra/public_html/synerx.lk/admin panel/viewOrder.php on line 48
+[13-Feb-2024 10:25:45 UTC] PHP Warning:  Undefined variable $orderDetails in /home2/xcobra/public_html/synerx.lk/admin panel/viewOrder.php on line 50
+[13-Feb-2024 10:25:45 UTC] PHP Warning:  Trying to access array offset on value of type null in /home2/xcobra/public_html/synerx.lk/admin panel/viewOrder.php on line 50
+[13-Feb-2024 10:25:45 UTC] PHP Warning:  Undefined variable $orderDetails in /home2/xcobra/public_html/synerx.lk/admin panel/viewOrder.php on line 34
+[13-Feb-2024 10:25:45 UTC] PHP Warning:  Trying to access array offset on value of type null in /home2/xcobra/public_html/synerx.lk/admin panel/viewOrder.php on line 34
+[13-Feb-2024 10:25:45 UTC] PHP Warning:  Undefined variable $orderDetails in /home2/xcobra/public_html/synerx.lk/admin panel/viewOrder.php on line 35
+[13-Feb-2024 10:25:45 UTC] PHP Warning:  Trying to access array offset on value of type null in /home2/xcobra/public_html/synerx.lk/admin panel/viewOrder.php on line 35
+[13-Feb-2024 10:25:45 UTC] PHP Warning:  Undefined variable $orderDetails in /home2/xcobra/public_html/synerx.lk/admin panel/viewOrder.php on line 36
+[13-Feb-2024 10:25:45 UTC] PHP Warning:  Trying to access array offset on value of type null in /home2/xcobra/public_html/synerx.lk/admin panel/viewOrder.php on line 36
+[13-Feb-2024 10:25:45 UTC] PHP Warning:  Undefined variable $orderDetails in /home2/xcobra/public_html/synerx.lk/admin panel/viewOrder.php on line 37
+[13-Feb-2024 10:25:45 UTC] PHP Warning:  Trying to access array offset on value of type null in /home2/xcobra/public_html/synerx.lk/admin panel/viewOrder.php on line 37
+[13-Feb-2024 10:25:45 UTC] PHP Warning:  Undefined variable $orderDetails in /home2/xcobra/public_html/synerx.lk/admin panel/viewOrder.php on line 39
+[13-Feb-2024 10:25:45 UTC] PHP Warning:  Trying to access array offset on value of type null in /home2/xcobra/public_html/synerx.lk/admin panel/viewOrder.php on line 39
+[13-Feb-2024 10:25:45 UTC] PHP Warning:  Undefined variable $orderDetails in /home2/xcobra/public_html/synerx.lk/admin panel/viewOrder.php on line 40
+[13-Feb-2024 10:25:45 UTC] PHP Warning:  Trying to access array offset on value of type null in /home2/xcobra/public_html/synerx.lk/admin panel/viewOrder.php on line 40
+[13-Feb-2024 10:25:45 UTC] PHP Warning:  Undefined variable $orderDetails in /home2/xcobra/public_html/synerx.lk/admin panel/viewOrder.php on line 41
+[13-Feb-2024 10:25:45 UTC] PHP Warning:  Trying to access array offset on value of type null in /home2/xcobra/public_html/synerx.lk/admin panel/viewOrder.php on line 41
+[13-Feb-2024 10:25:45 UTC] PHP Warning:  Undefined variable $orderDetails in /home2/xcobra/public_html/synerx.lk/admin panel/viewOrder.php on line 43
+[13-Feb-2024 10:25:45 UTC] PHP Warning:  Trying to access array offset on value of type null in /home2/xcobra/public_html/synerx.lk/admin panel/viewOrder.php on line 43
+[13-Feb-2024 10:25:45 UTC] PHP Warning:  Undefined variable $orderDetails in /home2/xcobra/public_html/synerx.lk/admin panel/viewOrder.php on line 44
+[13-Feb-2024 10:25:45 UTC] PHP Warning:  Trying to access array offset on value of type null in /home2/xcobra/public_html/synerx.lk/admin panel/viewOrder.php on line 44
+[13-Feb-2024 10:25:45 UTC] PHP Warning:  Undefined variable $orderDetails in /home2/xcobra/public_html/synerx.lk/admin panel/viewOrder.php on line 46
+[13-Feb-2024 10:25:45 UTC] PHP Warning:  Trying to access array offset on value of type null in /home2/xcobra/public_html/synerx.lk/admin panel/viewOrder.php on line 46
+[13-Feb-2024 10:25:45 UTC] PHP Warning:  Undefined variable $orderDetails in /home2/xcobra/public_html/synerx.lk/admin panel/viewOrder.php on line 48
+[13-Feb-2024 10:25:45 UTC] PHP Warning:  Trying to access array offset on value of type null in /home2/xcobra/public_html/synerx.lk/admin panel/viewOrder.php on line 48
+[13-Feb-2024 10:25:45 UTC] PHP Warning:  Undefined variable $orderDetails in /home2/xcobra/public_html/synerx.lk/admin panel/viewOrder.php on line 50
+[13-Feb-2024 10:25:45 UTC] PHP Warning:  Trying to access array offset on value of type null in /home2/xcobra/public_html/synerx.lk/admin panel/viewOrder.php on line 50

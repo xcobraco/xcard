@@ -1,0 +1,90 @@
+body {
+    background-image: url(../Img/img2.jpg);
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin: 0;
+    font-family: 'Arial', sans-serif;
+}
+.heading{
+    padding-top: 1.5rem;
+}
+
+.cont1 {
+    padding: 5rem 2rem; /* Adjusted padding for responsiveness */
+    background-color: #ffffff85; /* You can replace this with the color of your choice */
+}
+
+#topic2 {
+    text-align: center; /* Centered the text for smaller screens */
+    font-size: 1.2rem;
+    font-weight: bold;
+    margin-bottom: 1rem; /* Reduced margin between the main topic and the form */
+}
+
+#btn {
+    text-align: center; /* Centered the button for smaller screens */
+    margin-top: 1rem;
+    margin-bottom: 1rem; /* Reduced margin between the submit button and the footer */
+}
+
+#btn1 {
+    width: 100%; /* Make the button full width */
+}
+
+#hd1 {
+    text-align: center; /* Centered the heading for smaller screens */
+}
+
+#topic3 {
+    text-align: center; /* Centered the "Social Media Links" text for both mobile and desktop */
+    font-size: 1.2rem;
+    font-weight: bold;
+    margin-bottom: 1rem; /* Reduced margin for better spacing */
+}
+
+/* Media queries for responsiveness */
+@media (min-width: 576px) {
+    #hd1 {
+        font-size: 1.6rem;
+    }
+
+    #topic2 {
+        padding-left: 0;
+        text-align: left;
+    }
+
+    #btn {
+        text-align: center;
+        margin-top: 0;
+        margin-bottom: 1rem; /* Reduced margin between the submit button and the footer */
+    }
+
+    #btn1 {
+        width: auto;
+    }
+    
+}
+
+@media (min-width: 768px) {
+    #hd1 {
+        font-size: 2.5rem;
+    }
+}
+
+@media (min-width: 992px) {
+    #hd1 {
+        font-size: 3rem;
+    }
+
+    /* Adjustments for desktop appearance */
+    .cont1 {
+        padding: 2rem 2rem; /* Adjusted padding for desktop */
+    }
+
+    .form-group {
+        width: 50%; /* Reduced width of input fields on desktop */
+        margin: 0 auto; /* Center aligned input fields */
+    }
+}
+

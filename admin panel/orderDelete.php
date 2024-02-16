@@ -1,0 +1,50 @@
+<?php
+include '../inc/connection.php';
+
+// Check if the request method is POST
+if ($_SERVER["REQUEST_METHOD"] == "POST") {
+    // Create connection
+    $conn = new mysqli($servername, $username, $password, $dbname);
+
+    // Check connection
+    if ($conn->connect_error) {
+        die("Connection failed: " . $conn->connect_error);
+    }
+}
+
+if (isset($_GET['id'])) {
+    $deleteId = $_GET['id'];
+
+    // Create connection if not already established
+    if (!isset($conn)) {
+        $conn = new mysqli($servername, $username, $password, $dbname);
+
+        // Check connection
+        if ($conn->connect_error) {
+            die("Connection failed: " . $conn->connect_error);
+        }
+    }
+
+    // Perform the delete operation
+    $deleteSql = "DELETE FROM purchase WHERE id = $deleteId";
+
+    if ($conn->query($deleteSql) === TRUE) {
+        echo '<script>alert("Record deleted successfully");</script>';
+    } else {
+        echo "Error deleting record: " . $conn->error;
+    }
+
+    // Close connection
+    $conn->close();
+
+    header("Location: orders.php"); // Redirect back to the table page after deletion
+    exit();
+} else {
+    echo "Invalid request. User ID not provided.";
+}
+
+// Close connection (this should also be done outside the if block)
+if (isset($conn)) {
+    $conn->close();
+}
+?>

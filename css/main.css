@@ -1,0 +1,15 @@
+body {
+    background-image: url(https://i.ibb.co/7jmTcQt/sofindd-fp-12-11-2023-303.png);
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin: 0;
+    font-family: 'Arial', sans-serif;
+    color: #ffffff;
+    
+}
+@media only screen and (max-width: 600px) {
+    body {
+        background-image: url(https://i.ibb.co/17FDV88/Artboard-1.png);
+}
+}
