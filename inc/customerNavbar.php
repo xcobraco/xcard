@@ -64,8 +64,8 @@ if ($result && $result->num_rows > 0) {
                 <div class="content-right">
                     <div class="row">
                         <div class="col">
-                            <img src="../uploads/<?php echo $userDetails['ProPic']; ?>" height="50px"
-                                style="border-radius: 50%;">
+                            <img src="../uploads/<?php echo $userDetails['ProPic']; ?>" height="60px" width="60px"
+                            style="border-radius: 50%; object-fit: cover;">
                         </div>
                         <div class="col" style="color: white; display: flex;">
                         <div class="pro1" style="margin-top: 0.6rem;"><?php echo $userDetails['Name']; ?></div>
