@@ -47,7 +47,7 @@ $conn->close();
     <meta content="" name="description">
 	
     <!-- title logo -->
-    <link rel="icon" href="https://i.ibb.co/4mjBygC/1.png" type="image/x-icon">
+      <link rel="icon" href="https://i.ibb.co/80NLFyw/Whats-App-Image-2024-02-16-at-13-49-42.jpg" type="image/x-icon">
 
     <!-- Favicon -->
     <link href="img/favicon.ico" rel="icon">
