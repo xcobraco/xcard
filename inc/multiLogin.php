@@ -56,6 +56,7 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="icon" href="https://i.ibb.co/80NLFyw/Whats-App-Image-2024-02-16-at-13-49-42.jpg" type="image/x-icon">
   <link rel="stylesheet" href="styles.css">
   <title>Welcome to XCobra</title>
   <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css">
