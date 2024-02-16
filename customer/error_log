@@ -1,0 +1,40 @@
+[05-Feb-2024 11:40:10 UTC] PHP Warning:  Undefined array key "profilePictureInput" in /home2/xcobra/public_html/synerx.lk/customer/edit.php on line 44
+[05-Feb-2024 11:40:10 UTC] PHP Warning:  Trying to access array offset on value of type null in /home2/xcobra/public_html/synerx.lk/customer/edit.php on line 44
+[05-Feb-2024 18:42:00 UTC] PHP Warning:  Undefined array key "profilePictureInput" in /home2/xcobra/public_html/synerx.lk/customer/edit.php on line 44
+[05-Feb-2024 18:42:00 UTC] PHP Warning:  Trying to access array offset on value of type null in /home2/xcobra/public_html/synerx.lk/customer/edit.php on line 44
+[05-Feb-2024 18:48:17 UTC] PHP Warning:  Undefined array key "profilePictureInput" in /home2/xcobra/public_html/synerx.lk/customer/edit.php on line 44
+[05-Feb-2024 18:48:17 UTC] PHP Warning:  Trying to access array offset on value of type null in /home2/xcobra/public_html/synerx.lk/customer/edit.php on line 44
+[06-Feb-2024 06:25:35 UTC] PHP Warning:  Undefined array key "profilePictureInput" in /home2/xcobra/public_html/synerx.lk/customer/edit.php on line 44
+[06-Feb-2024 06:25:35 UTC] PHP Warning:  Trying to access array offset on value of type null in /home2/xcobra/public_html/synerx.lk/customer/edit.php on line 44
+[06-Feb-2024 06:48:25 UTC] PHP Warning:  Undefined array key "profilePictureInput" in /home2/xcobra/public_html/synerx.lk/customer/edit.php on line 44
+[06-Feb-2024 06:48:25 UTC] PHP Warning:  Trying to access array offset on value of type null in /home2/xcobra/public_html/synerx.lk/customer/edit.php on line 44
+[06-Feb-2024 07:01:30 UTC] PHP Warning:  mysqli::__construct(): (HY000/1040): Too many connections in /home2/xcobra/public_html/synerx.lk/customer/edit.php on line 5
+[06-Feb-2024 07:01:42 UTC] PHP Warning:  mysqli::__construct(): (HY000/1040): Too many connections in /home2/xcobra/public_html/synerx.lk/customer/edit.php on line 5
+[06-Feb-2024 07:01:58 UTC] PHP Warning:  mysqli::__construct(): (HY000/1040): Too many connections in /home2/xcobra/public_html/synerx.lk/inc/connection.php on line 10
+[06-Feb-2024 07:02:06 UTC] PHP Warning:  Undefined array key "profilePictureInput" in /home2/xcobra/public_html/synerx.lk/customer/edit.php on line 44
+[06-Feb-2024 07:02:06 UTC] PHP Warning:  Trying to access array offset on value of type null in /home2/xcobra/public_html/synerx.lk/customer/edit.php on line 44
+[06-Feb-2024 07:11:09 UTC] PHP Warning:  Undefined array key "profilePictureInput" in /home2/xcobra/public_html/synerx.lk/customer/edit.php on line 44
+[06-Feb-2024 07:11:09 UTC] PHP Warning:  Trying to access array offset on value of type null in /home2/xcobra/public_html/synerx.lk/customer/edit.php on line 44
+[07-Feb-2024 06:07:29 UTC] PHP Parse error:  syntax error, unexpected identifier "header", expecting "," or ";" in /home2/xcobra/public_html/synerx.lk/customer/edit.php on line 74
+[07-Feb-2024 06:07:29 UTC] PHP Parse error:  syntax error, unexpected identifier "header", expecting "," or ";" in /home2/xcobra/public_html/synerx.lk/customer/edit.php on line 74
+[07-Feb-2024 06:07:39 UTC] PHP Parse error:  syntax error, unexpected identifier "header", expecting "," or ";" in /home2/xcobra/public_html/synerx.lk/customer/edit.php on line 74
+[07-Feb-2024 06:07:39 UTC] PHP Parse error:  syntax error, unexpected identifier "header", expecting "," or ";" in /home2/xcobra/public_html/synerx.lk/customer/edit.php on line 74
+[07-Feb-2024 06:11:28 UTC] PHP Parse error:  syntax error, unexpected identifier "header", expecting "," or ";" in /home2/xcobra/public_html/synerx.lk/customer/edit.php on line 74
+[07-Feb-2024 06:14:02 UTC] PHP Parse error:  syntax error, unexpected end of file in /home2/xcobra/public_html/synerx.lk/customer/edit.php on line 638
+[07-Feb-2024 06:14:20 UTC] PHP Parse error:  syntax error, unexpected end of file in /home2/xcobra/public_html/synerx.lk/customer/edit.php on line 638
+[07-Feb-2024 06:14:24 UTC] PHP Parse error:  syntax error, unexpected end of file in /home2/xcobra/public_html/synerx.lk/customer/edit.php on line 638
+[07-Feb-2024 06:14:27 UTC] PHP Parse error:  syntax error, unexpected end of file in /home2/xcobra/public_html/synerx.lk/customer/edit.php on line 638
+[07-Feb-2024 06:14:46 UTC] PHP Parse error:  syntax error, unexpected identifier "z", expecting "," or ";" in /home2/xcobra/public_html/synerx.lk/customer/edit.php on line 73
+[07-Feb-2024 06:15:12 UTC] PHP Parse error:  syntax error, unexpected identifier "header", expecting "," or ";" in /home2/xcobra/public_html/synerx.lk/customer/edit.php on line 74
+[07-Feb-2024 06:16:38 UTC] PHP Warning:  Undefined array key "profilePictureInput" in /home2/xcobra/public_html/synerx.lk/customer/edit.php on line 44
+[07-Feb-2024 06:16:38 UTC] PHP Warning:  Trying to access array offset on value of type null in /home2/xcobra/public_html/synerx.lk/customer/edit.php on line 44
+[07-Feb-2024 06:17:04 UTC] PHP Warning:  Undefined array key "profilePictureInput" in /home2/xcobra/public_html/synerx.lk/customer/edit.php on line 44
+[07-Feb-2024 06:17:04 UTC] PHP Warning:  Trying to access array offset on value of type null in /home2/xcobra/public_html/synerx.lk/customer/edit.php on line 44
+[07-Feb-2024 06:26:22 UTC] PHP Warning:  Undefined array key "profilePictureInput" in /home2/xcobra/public_html/synerx.lk/customer/edit.php on line 44
+[07-Feb-2024 06:26:22 UTC] PHP Warning:  Trying to access array offset on value of type null in /home2/xcobra/public_html/synerx.lk/customer/edit.php on line 44
+[07-Feb-2024 06:27:04 UTC] PHP Warning:  Undefined array key "profilePictureInput" in /home2/xcobra/public_html/synerx.lk/customer/edit.php on line 44
+[07-Feb-2024 06:27:04 UTC] PHP Warning:  Trying to access array offset on value of type null in /home2/xcobra/public_html/synerx.lk/customer/edit.php on line 44
+[07-Feb-2024 09:37:31 UTC] PHP Warning:  Undefined array key "profilePictureInput" in /home2/xcobra/public_html/synerx.lk/customer/edit.php on line 44
+[07-Feb-2024 09:37:31 UTC] PHP Warning:  Trying to access array offset on value of type null in /home2/xcobra/public_html/synerx.lk/customer/edit.php on line 44
+[10-Feb-2024 05:55:03 UTC] PHP Warning:  Undefined array key "profilePictureInput" in /home2/xcobra/public_html/synerx.lk/customer/edit.php on line 44
+[10-Feb-2024 05:55:03 UTC] PHP Warning:  Trying to access array offset on value of type null in /home2/xcobra/public_html/synerx.lk/customer/edit.php on line 44

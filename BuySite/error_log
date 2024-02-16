@@ -1,0 +1,26 @@
+[04-Feb-2024 15:09:08 UTC] PHP Warning:  include(../inc/connection.php): Failed to open stream: No such file or directory in /home2/xcobra/public_html/synerx.lk/BuySite/index.php on line 3
+[04-Feb-2024 15:09:08 UTC] PHP Warning:  include(): Failed opening '../inc/connection.php' for inclusion (include_path='.:/opt/cpanel/ea-php80/root/usr/share/pear') in /home2/xcobra/public_html/synerx.lk/BuySite/index.php on line 3
+[04-Feb-2024 15:09:08 UTC] PHP Warning:  Undefined variable $servername in /home2/xcobra/public_html/synerx.lk/BuySite/index.php on line 6
+[04-Feb-2024 15:09:08 UTC] PHP Warning:  Undefined variable $username in /home2/xcobra/public_html/synerx.lk/BuySite/index.php on line 6
+[04-Feb-2024 15:09:08 UTC] PHP Warning:  Undefined variable $password in /home2/xcobra/public_html/synerx.lk/BuySite/index.php on line 6
+[04-Feb-2024 15:09:08 UTC] PHP Warning:  Undefined variable $dbname in /home2/xcobra/public_html/synerx.lk/BuySite/index.php on line 6
+[04-Feb-2024 15:09:08 UTC] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user ''@'localhost' (using password: NO) in /home2/xcobra/public_html/synerx.lk/BuySite/index.php on line 6
+[04-Feb-2024 15:18:20 UTC] PHP Warning:  mysqli::__construct(): php_network_getaddresses: getaddrinfo failed: Name or service not known in /home2/xcobra/public_html/synerx.lk/BuySite/index.php on line 6
+[04-Feb-2024 15:18:20 UTC] PHP Warning:  mysqli::__construct(): (HY000/2002): php_network_getaddresses: getaddrinfo failed: Name or service not known in /home2/xcobra/public_html/synerx.lk/BuySite/index.php on line 6
+[04-Feb-2024 15:18:32 UTC] PHP Warning:  mysqli::__construct(): php_network_getaddresses: getaddrinfo failed: Name or service not known in /home2/xcobra/public_html/synerx.lk/BuySite/index.php on line 6
+[04-Feb-2024 15:18:32 UTC] PHP Warning:  mysqli::__construct(): (HY000/2002): php_network_getaddresses: getaddrinfo failed: Name or service not known in /home2/xcobra/public_html/synerx.lk/BuySite/index.php on line 6
+[04-Feb-2024 16:02:12 UTC] PHP Warning:  mysqli::__construct(): php_network_getaddresses: getaddrinfo failed: Name or service not known in /home2/xcobra/public_html/synerx.lk/BuySite/index.php on line 6
+[04-Feb-2024 16:02:12 UTC] PHP Warning:  mysqli::__construct(): (HY000/2002): php_network_getaddresses: getaddrinfo failed: Name or service not known in /home2/xcobra/public_html/synerx.lk/BuySite/index.php on line 6
+[04-Feb-2024 16:02:23 UTC] PHP Warning:  mysqli::__construct(): php_network_getaddresses: getaddrinfo failed: Name or service not known in /home2/xcobra/public_html/synerx.lk/BuySite/index.php on line 6
+[04-Feb-2024 16:02:23 UTC] PHP Warning:  mysqli::__construct(): (HY000/2002): php_network_getaddresses: getaddrinfo failed: Name or service not known in /home2/xcobra/public_html/synerx.lk/BuySite/index.php on line 6
+[04-Feb-2024 16:02:30 UTC] PHP Warning:  mysqli::__construct(): php_network_getaddresses: getaddrinfo failed: Name or service not known in /home2/xcobra/public_html/synerx.lk/BuySite/index.php on line 6
+[04-Feb-2024 16:02:30 UTC] PHP Warning:  mysqli::__construct(): (HY000/2002): php_network_getaddresses: getaddrinfo failed: Name or service not known in /home2/xcobra/public_html/synerx.lk/BuySite/index.php on line 6
+[04-Feb-2024 16:02:34 UTC] PHP Warning:  mysqli::__construct(): php_network_getaddresses: getaddrinfo failed: Name or service not known in /home2/xcobra/public_html/synerx.lk/BuySite/index.php on line 6
+[04-Feb-2024 16:02:34 UTC] PHP Warning:  mysqli::__construct(): (HY000/2002): php_network_getaddresses: getaddrinfo failed: Name or service not known in /home2/xcobra/public_html/synerx.lk/BuySite/index.php on line 6
+[04-Feb-2024 16:07:50 UTC] PHP Warning:  Undefined variable $poCN8v3U47 in /home2/xcobra/public_html/synerx.lk/inc/connection.php on line 4
+[04-Feb-2024 16:07:50 UTC] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'xcobra_synerx'@'localhost' (using password: YES) in /home2/xcobra/public_html/synerx.lk/BuySite/index.php on line 6
+[04-Feb-2024 16:08:40 UTC] PHP Warning:  Undefined variable $poCN8v3U47 in /home2/xcobra/public_html/synerx.lk/inc/connection.php on line 4
+[04-Feb-2024 16:08:40 UTC] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'xcobra_synerx'@'localhost' (using password: YES) in /home2/xcobra/public_html/synerx.lk/BuySite/index.php on line 6
+[10-Feb-2024 06:00:32 UTC] PHP Warning:  Undefined array key "userPreference" in /home2/xcobra/public_html/synerx.lk/BuySite/submit.php on line 20
+[10-Feb-2024 08:10:02 UTC] PHP Warning:  Undefined array key "remarks" in /home2/xcobra/public_html/synerx.lk/BuySite/submit.php on line 28
+[12-Feb-2024 08:30:51 UTC] PHP Parse error:  syntax error, unexpected token "=" in /home2/xcobra/public_html/synerx.lk/BuySite/submit.php on line 65
